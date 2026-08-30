@@ -1,4 +1,4 @@
 # One root domain per line. Lines starting with # are ignored.
 # Everything under each root (including wildcard-level brute candidates)
 # is scanned; findings are attributed to the root that owns them.
-example.com
+genetec.com
