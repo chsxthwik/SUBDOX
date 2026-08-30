@@ -49,6 +49,7 @@ jobs:
         env:
           BRUTE_WORDLIST: /tmp/brute.txt
           RESOLVERS_FILE: /tmp/resolvers.txt
+          SUBDOX_PERM_CAP: "50000"
         run: bash scripts/enum.sh
 
       - name: Run takeover scan
