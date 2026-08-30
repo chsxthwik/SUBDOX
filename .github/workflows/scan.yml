@@ -1,0 +1,68 @@
+name: subdox
+
+on:
+  schedule:
+    # every 6h, off the top of the hour (less runner congestion)
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: subdox-scan
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install toolchain (pinned)
+        run: |
+          set -euo pipefail
+          mkdir -p "$HOME/.local/bin"
+          cd "$(mktemp -d)"
+          curl -fsSL -o sf.zip https://github.com/projectdiscovery/subfinder/releases/download/v2.16.0/subfinder_2.16.0_linux_amd64.zip
+          unzip -oq sf.zip subfinder
+          curl -fsSL -o dnsx.zip https://github.com/projectdiscovery/dnsx/releases/download/v1.3.0/dnsx_1.3.0_linux_amd64.zip
+          unzip -oq dnsx.zip dnsx
+          curl -fsSL -o gau.tgz https://github.com/lc/gau/releases/download/v2.2.4/gau_2.2.4_linux_amd64.tar.gz
+          tar -xzf gau.tgz gau
+          install -m 0755 subfinder dnsx gau "$HOME/.local/bin/"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Fetch fresh wordlists
+        run: |
+          set -euo pipefail
+          curl -fsSL --max-time 60 -o /tmp/brute.txt \
+            https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/DNS/subdomains-top1million-110000.txt || true
+          curl -fsSL --max-time 60 -o /tmp/resolvers.txt \
+            https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt || true
+          [ -s /tmp/brute.txt ] || cp wordlists/core-brute.txt /tmp/brute.txt
+          [ -s /tmp/resolvers.txt ] || cp wordlists/resolvers-fallback.txt /tmp/resolvers.txt
+          echo "brute list: $(wc -l < /tmp/brute.txt) entries, resolvers: $(wc -l < /tmp/resolvers.txt)"
+
+      - name: Enumerate subdomains
+        env:
+          BRUTE_WORDLIST: /tmp/brute.txt
+          RESOLVERS_FILE: /tmp/resolvers.txt
+        run: bash scripts/enum.sh
+
+      - name: Run takeover scan
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          pip install --quiet -r requirements.txt
+          python3 scan.py
+
+      - name: Commit state
+        run: |
+          git config user.name "subdox-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/ fingerprints.json
+          git diff --cached --quiet || git commit -m "scan: update state [skip ci]"
+          git push
