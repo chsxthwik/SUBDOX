@@ -1,15 +1,6 @@
 {
- "run_at": "2026-08-30 22:54 UTC",
- "subdomains_tracked": 10519,
- "cname_hosts": 18,
- "findings": [
-  {
-   "subdomain": "go.genetec.com",
-   "service": "Frontify",
-   "severity": "medium",
-   "cname": "mkto-sj020195.com",
-   "evidence": "body match \"404 - Page Not Found\" (HTTP 200)",
-   "key": "go.genetec.com|Frontify|body"
-  }
- ]
+ "run_at": "2026-08-30 23:07 UTC",
+ "subdomains_tracked": 10526,
+ "cname_hosts": 20,
+ "findings": []
 }
