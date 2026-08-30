@@ -112,6 +112,10 @@ def body_match(raw, body):
         return False
     low = body.lower()
     for alt in body_alternatives(raw):
+        # A generic alternative (e.g. bare "404 - Page Not Found") collides
+        # with plain nginx/cloudfront error pages - never sufficient alone.
+        if is_generic_body(alt):
+            continue
         try:
             if re.search(alt, body, re.IGNORECASE):
                 return True
