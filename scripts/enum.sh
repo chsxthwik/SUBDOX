@@ -105,8 +105,8 @@ while IFS= read -r d; do
     echo "[enum] brute force: $d"
     grep -E '^[A-Za-z0-9_-]+$' "$BRUTE_WORDLIST" | sed "s/$/.${d}/" \
         > "$WORK/brute_candidates_$d.txt"
-    timeout 600 dnsx -l "$WORK/brute_candidates_$d.txt" -a -resp -silent -threads 100 \
-        -retry 2 -timeout 5 -r "$RESOLVERS_FILE" -o "$WORK/brute_$d.txt" 2>/dev/null
+    timeout 600 dnsx -l "$WORK/brute_candidates_$d.txt" -a -resp -silent -threads 250 \
+        -retry 1 -timeout 3 -r "$RESOLVERS_FILE" -o "$WORK/brute_$d.txt" 2>/dev/null
     [ -f "$WORK/brute_$d.txt" ] \
         && cut -d' ' -f1 "$WORK/brute_$d.txt" | sed 's/\.$//' >> "$WORK/brute_alive.txt"
 done <<< "$DOMAINS"
@@ -127,8 +127,8 @@ echo "[enum] total candidate universe: $(wc -l < data/subs-latest.txt)"
 # A hard 15-min ceiling keeps the whole job well under the 35-min workflow
 # timeout even on junk-heavy targets; a partial CNAME map is fine - scan.py
 # only checks what's actually in it.
-timeout 900 dnsx -l data/subs-latest.txt -cname -a -resp -silent -threads 100 \
-    -retry 2 -timeout 5 -r "$RESOLVERS_FILE" -o data/cnames.txt 2>/dev/null
+timeout 900 dnsx -l data/subs-latest.txt -cname -a -resp -silent -threads 250 \
+    -retry 1 -timeout 3 -r "$RESOLVERS_FILE" -o data/cnames.txt 2>/dev/null
 echo "[enum] CNAME records captured: $(wc -l < data/cnames.txt 2>/dev/null || echo 0)"
 
 echo "[enum] done"
