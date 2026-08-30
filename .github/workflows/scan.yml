@@ -37,8 +37,10 @@ jobs:
       - name: Fetch fresh wordlists
         run: |
           set -euo pipefail
-          curl -fsSL --max-time 60 -o /tmp/brute.txt \
+          # truncated to the most common 20k names for speed; swap to 110000 for depth
+          curl -fsSL --max-time 60 -o /tmp/brute_full.txt \
             https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/DNS/subdomains-top1million-110000.txt || true
+          head -n 20000 /tmp/brute_full.txt > /tmp/brute.txt || true
           curl -fsSL --max-time 60 -o /tmp/resolvers.txt \
             https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt || true
           [ -s /tmp/brute.txt ] || cp wordlists/core-brute.txt /tmp/brute.txt
@@ -49,7 +51,7 @@ jobs:
         env:
           BRUTE_WORDLIST: /tmp/brute.txt
           RESOLVERS_FILE: /tmp/resolvers.txt
-          SUBDOX_PERM_CAP: "50000"
+          SUBDOX_PERM_CAP: "10000"
         run: bash scripts/enum.sh
 
       - name: Run takeover scan
