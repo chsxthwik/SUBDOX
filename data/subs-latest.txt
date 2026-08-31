@@ -10286,6 +10286,7 @@ ns2.login.genetec.com
 ns3.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10331,7 +10332,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
