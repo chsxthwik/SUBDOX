@@ -1,6 +1,15 @@
 {
- "run_at": "2026-08-31 05:48 UTC",
- "subdomains_tracked": 10526,
- "cname_hosts": 21,
- "findings": []
+ "run_at": "2026-08-31 14:07 UTC",
+ "subdomains_tracked": 10524,
+ "cname_hosts": 29,
+ "findings": [
+  {
+   "subdomain": "sip.genetec.com",
+   "service": "unknown (dangling CNAME)",
+   "severity": "info",
+   "cname": "sipdir.online.lync.com",
+   "evidence": "CNAME sipdir.online.lync.com -> NXDOMAIN, no fingerprint match; manual review",
+   "key": "sip.genetec.com|dangling"
+  }
+ ]
 }
