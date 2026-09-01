@@ -8726,7 +8726,6 @@ bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo-wwwdownloads.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -10041,6 +10040,7 @@ boss.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10048,6 +10048,7 @@ cdn.downloadcenter2.genetec.com
 cdn.genetec.com
 certtest.genetec.com
 chat.downloadcenter.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10266,6 +10267,7 @@ mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
 msoid.genetec.com
+mushroom.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10287,6 +10289,7 @@ ns2.login.genetec.com
 ns3.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10444,6 +10447,7 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
+tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
