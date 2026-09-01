@@ -1,6 +1,6 @@
 2.genetec.com
 3.genetec.com
-7778.genetec.com
+777.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -172,7 +172,6 @@ account-sbcpar.genetec.com
 account-sc-webapp-help.genetec.com
 account-sccmgeneteccmg.genetec.com
 account-scservices.genetec.com
-account-sdscwww.genetec.com
 account-servicecatalog.genetec.com
 account-share.genetec.com
 account-sip.genetec.com
@@ -400,7 +399,6 @@ accounts-sbcpar.genetec.com
 accounts-sc-webapp-help.genetec.com
 accounts-sccmgeneteccmg.genetec.com
 accounts-scservices.genetec.com
-accounts-sdscwww.genetec.com
 accounts-servicecatalog.genetec.com
 accounts-share.genetec.com
 accounts-sip.genetec.com
@@ -1337,7 +1335,6 @@ admin-api-sbcpar.genetec.com
 admin-api-sc-webapp-help.genetec.com
 admin-api-sccmgeneteccmg.genetec.com
 admin-api-scservices.genetec.com
-admin-api-sdscwww.genetec.com
 admin-api-servicecatalog.genetec.com
 admin-api-share.genetec.com
 admin-api-sip.genetec.com
@@ -1561,7 +1558,6 @@ admin-sbcpar.genetec.com
 admin-sc-webapp-help.genetec.com
 admin-sccmgeneteccmg.genetec.com
 admin-scservices.genetec.com
-admin-sdscwww.genetec.com
 admin-servicecatalog.genetec.com
 admin-share.genetec.com
 admin-sip.genetec.com
@@ -1790,7 +1786,6 @@ administrator-sbcpar.genetec.com
 administrator-sc-webapp-help.genetec.com
 administrator-sccmgeneteccmg.genetec.com
 administrator-scservices.genetec.com
-administrator-sdscwww.genetec.com
 administrator-servicecatalog.genetec.com
 administrator-share.genetec.com
 administrator-sip.genetec.com
@@ -2018,7 +2013,6 @@ affiliate-sbcpar.genetec.com
 affiliate-sc-webapp-help.genetec.com
 affiliate-sccmgeneteccmg.genetec.com
 affiliate-scservices.genetec.com
-affiliate-sdscwww.genetec.com
 affiliate-servicecatalog.genetec.com
 affiliate-share.genetec.com
 affiliate-sip.genetec.com
@@ -2481,7 +2475,6 @@ akamai-sbcpar.genetec.com
 akamai-sc-webapp-help.genetec.com
 akamai-sccmgeneteccmg.genetec.com
 akamai-scservices.genetec.com
-akamai-sdscwww.genetec.com
 akamai-servicecatalog.genetec.com
 akamai-share.genetec.com
 akamai-sip.genetec.com
@@ -2709,7 +2702,6 @@ alpha-sbcpar.genetec.com
 alpha-sc-webapp-help.genetec.com
 alpha-sccmgeneteccmg.genetec.com
 alpha-scservices.genetec.com
-alpha-sdscwww.genetec.com
 alpha-servicecatalog.genetec.com
 alpha-share.genetec.com
 alpha-sip.genetec.com
@@ -2937,7 +2929,6 @@ apache-sbcpar.genetec.com
 apache-sc-webapp-help.genetec.com
 apache-sccmgeneteccmg.genetec.com
 apache-scservices.genetec.com
-apache-sdscwww.genetec.com
 apache-servicecatalog.genetec.com
 apache-share.genetec.com
 apache-sip.genetec.com
@@ -3168,7 +3159,6 @@ api-admin-sbcpar.genetec.com
 api-admin-sc-webapp-help.genetec.com
 api-admin-sccmgeneteccmg.genetec.com
 api-admin-scservices.genetec.com
-api-admin-sdscwww.genetec.com
 api-admin-servicecatalog.genetec.com
 api-admin-share.genetec.com
 api-admin-sip.genetec.com
@@ -3481,7 +3471,6 @@ api-internal-sbcpar.genetec.com
 api-internal-sc-webapp-help.genetec.com
 api-internal-sccmgeneteccmg.genetec.com
 api-internal-scservices.genetec.com
-api-internal-sdscwww.genetec.com
 api-internal-servicecatalog.genetec.com
 api-internal-share.genetec.com
 api-internal-sip.genetec.com
@@ -3621,7 +3610,6 @@ api-sbcpar.genetec.com
 api-sc-webapp-help.genetec.com
 api-sccmgeneteccmg.genetec.com
 api-scservices.genetec.com
-api-sdscwww.genetec.com
 api-servicecatalog.genetec.com
 api-share.genetec.com
 api-sip.genetec.com
@@ -3849,7 +3837,6 @@ app-sbcpar.genetec.com
 app-sc-webapp-help.genetec.com
 app-sccmgeneteccmg.genetec.com
 app-scservices.genetec.com
-app-sdscwww.genetec.com
 app-servicecatalog.genetec.com
 app-share.genetec.com
 app-sip.genetec.com
@@ -4312,7 +4299,6 @@ apps-sbcpar.genetec.com
 apps-sc-webapp-help.genetec.com
 apps-sccmgeneteccmg.genetec.com
 apps-scservices.genetec.com
-apps-sdscwww.genetec.com
 apps-servicecatalog.genetec.com
 apps-share.genetec.com
 apps-sip.genetec.com
@@ -4775,7 +4761,6 @@ archive-sbcpar.genetec.com
 archive-sc-webapp-help.genetec.com
 archive-sccmgeneteccmg.genetec.com
 archive-scservices.genetec.com
-archive-sdscwww.genetec.com
 archive-servicecatalog.genetec.com
 archive-share.genetec.com
 archive-sip.genetec.com
@@ -5003,7 +4988,6 @@ artifactory-sbcpar.genetec.com
 artifactory-sc-webapp-help.genetec.com
 artifactory-sccmgeneteccmg.genetec.com
 artifactory-scservices.genetec.com
-artifactory-sdscwww.genetec.com
 artifactory-servicecatalog.genetec.com
 artifactory-share.genetec.com
 artifactory-sip.genetec.com
@@ -5466,7 +5450,6 @@ assets-sbcpar.genetec.com
 assets-sc-webapp-help.genetec.com
 assets-sccmgeneteccmg.genetec.com
 assets-scservices.genetec.com
-assets-sdscwww.genetec.com
 assets-servicecatalog.genetec.com
 assets-share.genetec.com
 assets-sip.genetec.com
@@ -5695,7 +5678,6 @@ audit-sbcpar.genetec.com
 audit-sc-webapp-help.genetec.com
 audit-sccmgeneteccmg.genetec.com
 audit-scservices.genetec.com
-audit-sdscwww.genetec.com
 audit-servicecatalog.genetec.com
 audit-share.genetec.com
 audit-sip.genetec.com
@@ -5923,7 +5905,6 @@ auth-sbcpar.genetec.com
 auth-sc-webapp-help.genetec.com
 auth-sccmgeneteccmg.genetec.com
 auth-scservices.genetec.com
-auth-sdscwww.genetec.com
 auth-servicecatalog.genetec.com
 auth-share.genetec.com
 auth-sip.genetec.com
@@ -6622,7 +6603,6 @@ aws-sbcpar.genetec.com
 aws-sc-webapp-help.genetec.com
 aws-sccmgeneteccmg.genetec.com
 aws-scservices.genetec.com
-aws-sdscwww.genetec.com
 aws-servicecatalog.genetec.com
 aws-share.genetec.com
 aws-sip.genetec.com
@@ -7555,7 +7535,6 @@ azure-sbcpar.genetec.com
 azure-sc-webapp-help.genetec.com
 azure-sccmgeneteccmg.genetec.com
 azure-scservices.genetec.com
-azure-sdscwww.genetec.com
 azure-servicecatalog.genetec.com
 azure-share.genetec.com
 azure-sip.genetec.com
@@ -7783,7 +7762,6 @@ b2b-sbcpar.genetec.com
 b2b-sc-webapp-help.genetec.com
 b2b-sccmgeneteccmg.genetec.com
 b2b-scservices.genetec.com
-b2b-sdscwww.genetec.com
 b2b-servicecatalog.genetec.com
 b2b-share.genetec.com
 b2b-sip.genetec.com
@@ -8011,7 +7989,6 @@ b2c-sbcpar.genetec.com
 b2c-sc-webapp-help.genetec.com
 b2c-sccmgeneteccmg.genetec.com
 b2c-scservices.genetec.com
-b2c-sdscwww.genetec.com
 b2c-servicecatalog.genetec.com
 b2c-share.genetec.com
 b2c-sip.genetec.com
@@ -8239,7 +8216,6 @@ backup-sbcpar.genetec.com
 backup-sc-webapp-help.genetec.com
 backup-sccmgeneteccmg.genetec.com
 backup-scservices.genetec.com
-backup-sdscwww.genetec.com
 backup-servicecatalog.genetec.com
 backup-share.genetec.com
 backup-sip.genetec.com
@@ -8467,7 +8443,6 @@ bak-sbcpar.genetec.com
 bak-sc-webapp-help.genetec.com
 bak-sccmgeneteccmg.genetec.com
 bak-scservices.genetec.com
-bak-sdscwww.genetec.com
 bak-servicecatalog.genetec.com
 bak-share.genetec.com
 bak-sip.genetec.com
@@ -8695,7 +8670,6 @@ bamboo-sbcpar.genetec.com
 bamboo-sc-webapp-help.genetec.com
 bamboo-sccmgeneteccmg.genetec.com
 bamboo-scservices.genetec.com
-bamboo-sdscwww.genetec.com
 bamboo-servicecatalog.genetec.com
 bamboo-share.genetec.com
 bamboo-sip.genetec.com
@@ -8752,6 +8726,7 @@ bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo-wwwdownloads.genetec.com
 bamboo.genetec.com
+bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -8923,7 +8898,6 @@ beta-sbcpar.genetec.com
 beta-sc-webapp-help.genetec.com
 beta-sccmgeneteccmg.genetec.com
 beta-scservices.genetec.com
-beta-sdscwww.genetec.com
 beta-servicecatalog.genetec.com
 beta-share.genetec.com
 beta-sip.genetec.com
@@ -9151,7 +9125,6 @@ beta2-sbcpar.genetec.com
 beta2-sc-webapp-help.genetec.com
 beta2-sccmgeneteccmg.genetec.com
 beta2-scservices.genetec.com
-beta2-sdscwww.genetec.com
 beta2-servicecatalog.genetec.com
 beta2-share.genetec.com
 beta2-sip.genetec.com
@@ -9614,7 +9587,6 @@ billing-sbcpar.genetec.com
 billing-sc-webapp-help.genetec.com
 billing-sccmgeneteccmg.genetec.com
 billing-scservices.genetec.com
-billing-sdscwww.genetec.com
 billing-servicecatalog.genetec.com
 billing-share.genetec.com
 billing-sip.genetec.com
@@ -10032,6 +10004,35 @@ bloomreachsite-dev-logs.genetec.com
 bloomreachsite-dev-m.genetec.com
 bloomreachsite-dev-mail.genetec.com
 bloomreachsite-dev-mailchimp.genetec.com
+bloomreachsite-dev-marketing.genetec.com
+bloomreachsite-dev-marketo.genetec.com
+bloomreachsite-dev-media.genetec.com
+bloomreachsite-dev-metrics.genetec.com
+bloomreachsite-dev-mobile.genetec.com
+bloomreachsite-dev-monitor.genetec.com
+bloomreachsite-dev-monitoring.genetec.com
+bloomreachsite-dev-mx.genetec.com
+bloomreachsite-dev-mx1.genetec.com
+bloomreachsite-dev-netlify.genetec.com
+bloomreachsite-dev-new.genetec.com
+bloomreachsite-dev-nex.genetec.com
+bloomreachsite-dev-nexus.genetec.com
+bloomreachsite-dev-nginx.genetec.com
+bloomreachsite-dev-node.genetec.com
+bloomreachsite-dev-nodejs.genetec.com
+bloomreachsite-dev-ns.genetec.com
+bloomreachsite-dev-ns1.genetec.com
+bloomreachsite-dev-ns2.genetec.com
+bloomreachsite-dev-oauth.genetec.com
+bloomreachsite-dev-old.genetec.com
+bloomreachsite-dev-orders.genetec.com
+bloomreachsite-dev-pages.genetec.com
+bloomreachsite-dev-panel.genetec.com
+bloomreachsite-dev-partner.genetec.com
+bloomreachsite-dev-partners.genetec.com
+bloomreachsite-dev-payment.genetec.com
+bloomreachsite-dev-payments.genetec.com
+bloomreachsite-dev-paypal.genetec.com
 bloomreachsite-dev.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
@@ -10040,7 +10041,6 @@ boss.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
-calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10048,7 +10048,6 @@ cdn.downloadcenter2.genetec.com
 cdn.genetec.com
 certtest.genetec.com
 chat.downloadcenter.genetec.com
-chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10117,8 +10116,6 @@ edge.genetec.com
 edge.info.genetec.com
 elastic.genetec.com
 email.rnd.genetec.com
-enterpriseenrollment.genetec.com
-enterpriseregistration.genetec.com
 erp.genetec.com
 es.genetec.com
 event.genetec.com
@@ -10153,7 +10150,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetec.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
@@ -10218,7 +10214,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10281,7 +10276,6 @@ next.login.genetec.com
 nexus.genetec.com
 nginx.genetec.com
 nietzsche.genetec.com
-night.genetec.com
 node.genetec.com
 nodejs.genetec.com
 northeurope.login.genetec.com
@@ -10293,7 +10287,6 @@ ns2.login.genetec.com
 ns3.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10340,7 +10333,6 @@ production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
 proxy.genetec.com
-pvp.genetec.com
 python.genetec.com
 qa-www.genetec.com
 qa.genetec.com
@@ -10394,7 +10386,6 @@ sbcpar.genetec.com
 sc-webapp-help.genetec.com
 sccmgeneteccmg.genetec.com
 scservices.genetec.com
-sdscwww.genetec.com
 sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
@@ -10453,7 +10444,6 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
-tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
@@ -10516,7 +10506,6 @@ www.gpnsprod.genetec.com
 www.gpnsstage.genetec.com
 www.id.genetec.com
 www.jobs.id.genetec.com
-www.learningcrew.genetec.com
 www.login.genetec.com
 www.staging.login.genetec.com
 www.subscriptions.genetec.com
