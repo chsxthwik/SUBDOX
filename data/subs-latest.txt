@@ -10037,11 +10037,9 @@ bloomreachsite-dev.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
-calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10049,7 +10047,6 @@ cdn.downloadcenter2.genetec.com
 cdn.genetec.com
 certtest.genetec.com
 chat.downloadcenter.genetec.com
-chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10268,8 +10265,7 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
-music.genetec.com
+mushroom.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10396,7 +10392,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10510,6 +10505,7 @@ www.gpnsprod.genetec.com
 www.gpnsstage.genetec.com
 www.id.genetec.com
 www.jobs.id.genetec.com
+www.learningcrew.genetec.com
 www.login.genetec.com
 www.staging.login.genetec.com
 www.subscriptions.genetec.com
