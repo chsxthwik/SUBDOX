@@ -10033,9 +10033,11 @@ bloomreachsite-qa-logs.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
 booking.genetec.com
+boss.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10043,6 +10045,7 @@ cdn.downloadcenter2.genetec.com
 cdn.genetec.com
 certtest.genetec.com
 chat.downloadcenter.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10071,6 +10074,7 @@ dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
 database.genetec.com
+davi.genetec.com
 db.genetec.com
 dbsrestapi.genetec.com
 demo.genetec.com
@@ -10085,6 +10089,7 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
+distribution.genetec.com
 dns.genetec.com
 dns2.downloadcenter.genetec.com
 dns2.info.genetec.com
@@ -10109,6 +10114,8 @@ edge.genetec.com
 edge.info.genetec.com
 elastic.genetec.com
 email.rnd.genetec.com
+enterpriseenrollment.genetec.com
+enterpriseregistration.genetec.com
 erp.genetec.com
 es.genetec.com
 event.genetec.com
@@ -10143,7 +10150,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetec.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
@@ -10199,6 +10205,7 @@ jobs-dryrun.id.genetec.com
 jobs.id.genetec.com
 k8s.genetec.com
 kibana.genetec.com
+knowledge.genetec.com
 kube.genetec.com
 kubernetes.genetec.com
 lab.genetec.com
@@ -10248,6 +10255,7 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
+meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10261,6 +10269,7 @@ monitoring.genetec.com
 msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
+myblog.genetec.com
 netbox.genetec.com
 netlify.genetec.com
 new.genetec.com
@@ -10279,7 +10288,6 @@ ns2.login.genetec.com
 ns3.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10383,6 +10391,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10466,6 +10475,7 @@ vault-poc.genetec.com
 vendor.genetec.com
 vendors.genetec.com
 vercel.genetec.com
+vesta.genetec.com
 video.info.genetec.com
 vpn.downloadcenter.genetec.com
 vpn.genetec.com
@@ -10496,7 +10506,6 @@ www.gpnsprod.genetec.com
 www.gpnsstage.genetec.com
 www.id.genetec.com
 www.jobs.id.genetec.com
-www.learningcrew.genetec.com
 www.login.genetec.com
 www.staging.login.genetec.com
 www.subscriptions.genetec.com
