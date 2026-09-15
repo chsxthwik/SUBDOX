@@ -16,7 +16,6 @@ account-blog.genetec.com
 account-bloomreachsite-dev.genetec.com
 account-bloomreachsite-qa.genetec.com
 account-bloomreachsite-uat.genetec.com
-account-bounces.genetec.com
 account-campaigncalc.genetec.com
 account-canadacentral.genetec.com
 account-certtest.genetec.com
@@ -201,7 +200,6 @@ account-updateservice-stage.genetec.com
 account-updateservice-systest.genetec.com
 account-updateservice-uat.genetec.com
 account-updateservice.genetec.com
-account-url9728.genetec.com
 account-us-meetings.genetec.com
 account-us.genetec.com
 account-v2.genetec.com
@@ -235,7 +233,6 @@ accounts-blog.genetec.com
 accounts-bloomreachsite-dev.genetec.com
 accounts-bloomreachsite-qa.genetec.com
 accounts-bloomreachsite-uat.genetec.com
-accounts-bounces.genetec.com
 accounts-campaigncalc.genetec.com
 accounts-canadacentral.genetec.com
 accounts-certtest.genetec.com
@@ -420,7 +417,6 @@ accounts-updateservice-stage.genetec.com
 accounts-updateservice-systest.genetec.com
 accounts-updateservice-uat.genetec.com
 accounts-updateservice.genetec.com
-accounts-url9728.genetec.com
 accounts-us-meetings.genetec.com
 accounts-us.genetec.com
 accounts-v2.genetec.com
@@ -1163,7 +1159,6 @@ admin-api-blog.genetec.com
 admin-api-bloomreachsite-dev.genetec.com
 admin-api-bloomreachsite-qa.genetec.com
 admin-api-bloomreachsite-uat.genetec.com
-admin-api-bounces.genetec.com
 admin-api-campaigncalc.genetec.com
 admin-api-canadacentral.genetec.com
 admin-api-certtest.genetec.com
@@ -1348,7 +1343,6 @@ admin-api-updateservice-stage.genetec.com
 admin-api-updateservice-systest.genetec.com
 admin-api-updateservice-uat.genetec.com
 admin-api-updateservice.genetec.com
-admin-api-url9728.genetec.com
 admin-api-us-meetings.genetec.com
 admin-api-us.genetec.com
 admin-api-v2.genetec.com
@@ -1378,7 +1372,6 @@ admin-blog.genetec.com
 admin-bloomreachsite-dev.genetec.com
 admin-bloomreachsite-qa.genetec.com
 admin-bloomreachsite-uat.genetec.com
-admin-bounces.genetec.com
 admin-campaigncalc.genetec.com
 admin-canadacentral.genetec.com
 admin-certtest.genetec.com
@@ -1563,7 +1556,6 @@ admin-updateservice-stage.genetec.com
 admin-updateservice-systest.genetec.com
 admin-updateservice-uat.genetec.com
 admin-updateservice.genetec.com
-admin-url9728.genetec.com
 admin-us-meetings.genetec.com
 admin-us.genetec.com
 admin-v2.genetec.com
@@ -1598,7 +1590,6 @@ administrator-blog.genetec.com
 administrator-bloomreachsite-dev.genetec.com
 administrator-bloomreachsite-qa.genetec.com
 administrator-bloomreachsite-uat.genetec.com
-administrator-bounces.genetec.com
 administrator-campaigncalc.genetec.com
 administrator-canadacentral.genetec.com
 administrator-certtest.genetec.com
@@ -1783,7 +1774,6 @@ administrator-updateservice-stage.genetec.com
 administrator-updateservice-systest.genetec.com
 administrator-updateservice-uat.genetec.com
 administrator-updateservice.genetec.com
-administrator-url9728.genetec.com
 administrator-us-meetings.genetec.com
 administrator-us.genetec.com
 administrator-v2.genetec.com
@@ -1817,7 +1807,6 @@ affiliate-blog.genetec.com
 affiliate-bloomreachsite-dev.genetec.com
 affiliate-bloomreachsite-qa.genetec.com
 affiliate-bloomreachsite-uat.genetec.com
-affiliate-bounces.genetec.com
 affiliate-campaigncalc.genetec.com
 affiliate-canadacentral.genetec.com
 affiliate-certtest.genetec.com
@@ -2002,7 +1991,6 @@ affiliate-updateservice-stage.genetec.com
 affiliate-updateservice-systest.genetec.com
 affiliate-updateservice-uat.genetec.com
 affiliate-updateservice.genetec.com
-affiliate-url9728.genetec.com
 affiliate-us-meetings.genetec.com
 affiliate-us.genetec.com
 affiliate-v2.genetec.com
@@ -2271,7 +2259,6 @@ akamai-blog.genetec.com
 akamai-bloomreachsite-dev.genetec.com
 akamai-bloomreachsite-qa.genetec.com
 akamai-bloomreachsite-uat.genetec.com
-akamai-bounces.genetec.com
 akamai-campaigncalc.genetec.com
 akamai-canadacentral.genetec.com
 akamai-certtest.genetec.com
@@ -2456,7 +2443,6 @@ akamai-updateservice-stage.genetec.com
 akamai-updateservice-systest.genetec.com
 akamai-updateservice-uat.genetec.com
 akamai-updateservice.genetec.com
-akamai-url9728.genetec.com
 akamai-us-meetings.genetec.com
 akamai-us.genetec.com
 akamai-v2.genetec.com
@@ -2490,7 +2476,6 @@ alpha-blog.genetec.com
 alpha-bloomreachsite-dev.genetec.com
 alpha-bloomreachsite-qa.genetec.com
 alpha-bloomreachsite-uat.genetec.com
-alpha-bounces.genetec.com
 alpha-campaigncalc.genetec.com
 alpha-canadacentral.genetec.com
 alpha-certtest.genetec.com
@@ -2675,7 +2660,6 @@ alpha-updateservice-stage.genetec.com
 alpha-updateservice-systest.genetec.com
 alpha-updateservice-uat.genetec.com
 alpha-updateservice.genetec.com
-alpha-url9728.genetec.com
 alpha-us-meetings.genetec.com
 alpha-us.genetec.com
 alpha-v2.genetec.com
@@ -2709,7 +2693,6 @@ apache-blog.genetec.com
 apache-bloomreachsite-dev.genetec.com
 apache-bloomreachsite-qa.genetec.com
 apache-bloomreachsite-uat.genetec.com
-apache-bounces.genetec.com
 apache-campaigncalc.genetec.com
 apache-canadacentral.genetec.com
 apache-certtest.genetec.com
@@ -2894,7 +2877,6 @@ apache-updateservice-stage.genetec.com
 apache-updateservice-systest.genetec.com
 apache-updateservice-uat.genetec.com
 apache-updateservice.genetec.com
-apache-url9728.genetec.com
 apache-us-meetings.genetec.com
 apache-us.genetec.com
 apache-v2.genetec.com
@@ -2931,7 +2913,6 @@ api-admin-blog.genetec.com
 api-admin-bloomreachsite-dev.genetec.com
 api-admin-bloomreachsite-qa.genetec.com
 api-admin-bloomreachsite-uat.genetec.com
-api-admin-bounces.genetec.com
 api-admin-campaigncalc.genetec.com
 api-admin-canadacentral.genetec.com
 api-admin-certtest.genetec.com
@@ -3116,7 +3097,6 @@ api-admin-updateservice-stage.genetec.com
 api-admin-updateservice-systest.genetec.com
 api-admin-updateservice-uat.genetec.com
 api-admin-updateservice.genetec.com
-api-admin-url9728.genetec.com
 api-admin-us-meetings.genetec.com
 api-admin-us.genetec.com
 api-admin-v2.genetec.com
@@ -3147,7 +3127,6 @@ api-blog.genetec.com
 api-bloomreachsite-dev.genetec.com
 api-bloomreachsite-qa.genetec.com
 api-bloomreachsite-uat.genetec.com
-api-bounces.genetec.com
 api-campaigncalc.genetec.com
 api-canadacentral.genetec.com
 api-certtest.genetec.com
@@ -3233,7 +3212,6 @@ api-internal-blog.genetec.com
 api-internal-bloomreachsite-dev.genetec.com
 api-internal-bloomreachsite-qa.genetec.com
 api-internal-bloomreachsite-uat.genetec.com
-api-internal-bounces.genetec.com
 api-internal-campaigncalc.genetec.com
 api-internal-canadacentral.genetec.com
 api-internal-certtest.genetec.com
@@ -3418,7 +3396,6 @@ api-internal-updateservice-stage.genetec.com
 api-internal-updateservice-systest.genetec.com
 api-internal-updateservice-uat.genetec.com
 api-internal-updateservice.genetec.com
-api-internal-url9728.genetec.com
 api-internal-us-meetings.genetec.com
 api-internal-us.genetec.com
 api-internal-v2.genetec.com
@@ -3551,7 +3528,6 @@ api-updateservice-stage.genetec.com
 api-updateservice-systest.genetec.com
 api-updateservice-uat.genetec.com
 api-updateservice.genetec.com
-api-url9728.genetec.com
 api-us-meetings.genetec.com
 api-us.genetec.com
 api-v2.genetec.com
@@ -3585,7 +3561,6 @@ app-blog.genetec.com
 app-bloomreachsite-dev.genetec.com
 app-bloomreachsite-qa.genetec.com
 app-bloomreachsite-uat.genetec.com
-app-bounces.genetec.com
 app-campaigncalc.genetec.com
 app-canadacentral.genetec.com
 app-certtest.genetec.com
@@ -3770,7 +3745,6 @@ app-updateservice-stage.genetec.com
 app-updateservice-systest.genetec.com
 app-updateservice-uat.genetec.com
 app-updateservice.genetec.com
-app-url9728.genetec.com
 app-us-meetings.genetec.com
 app-us.genetec.com
 app-v2.genetec.com
@@ -4039,7 +4013,6 @@ apps-blog.genetec.com
 apps-bloomreachsite-dev.genetec.com
 apps-bloomreachsite-qa.genetec.com
 apps-bloomreachsite-uat.genetec.com
-apps-bounces.genetec.com
 apps-campaigncalc.genetec.com
 apps-canadacentral.genetec.com
 apps-certtest.genetec.com
@@ -4224,7 +4197,6 @@ apps-updateservice-stage.genetec.com
 apps-updateservice-systest.genetec.com
 apps-updateservice-uat.genetec.com
 apps-updateservice.genetec.com
-apps-url9728.genetec.com
 apps-us-meetings.genetec.com
 apps-us.genetec.com
 apps-v2.genetec.com
@@ -4493,7 +4465,6 @@ archive-blog.genetec.com
 archive-bloomreachsite-dev.genetec.com
 archive-bloomreachsite-qa.genetec.com
 archive-bloomreachsite-uat.genetec.com
-archive-bounces.genetec.com
 archive-campaigncalc.genetec.com
 archive-canadacentral.genetec.com
 archive-certtest.genetec.com
@@ -4678,7 +4649,6 @@ archive-updateservice-stage.genetec.com
 archive-updateservice-systest.genetec.com
 archive-updateservice-uat.genetec.com
 archive-updateservice.genetec.com
-archive-url9728.genetec.com
 archive-us-meetings.genetec.com
 archive-us.genetec.com
 archive-v2.genetec.com
@@ -4712,7 +4682,6 @@ artifactory-blog.genetec.com
 artifactory-bloomreachsite-dev.genetec.com
 artifactory-bloomreachsite-qa.genetec.com
 artifactory-bloomreachsite-uat.genetec.com
-artifactory-bounces.genetec.com
 artifactory-campaigncalc.genetec.com
 artifactory-canadacentral.genetec.com
 artifactory-certtest.genetec.com
@@ -4897,7 +4866,6 @@ artifactory-updateservice-stage.genetec.com
 artifactory-updateservice-systest.genetec.com
 artifactory-updateservice-uat.genetec.com
 artifactory-updateservice.genetec.com
-artifactory-url9728.genetec.com
 artifactory-us-meetings.genetec.com
 artifactory-us.genetec.com
 artifactory-v2.genetec.com
@@ -5166,7 +5134,6 @@ assets-blog.genetec.com
 assets-bloomreachsite-dev.genetec.com
 assets-bloomreachsite-qa.genetec.com
 assets-bloomreachsite-uat.genetec.com
-assets-bounces.genetec.com
 assets-campaigncalc.genetec.com
 assets-canadacentral.genetec.com
 assets-certtest.genetec.com
@@ -5351,7 +5318,6 @@ assets-updateservice-stage.genetec.com
 assets-updateservice-systest.genetec.com
 assets-updateservice-uat.genetec.com
 assets-updateservice.genetec.com
-assets-url9728.genetec.com
 assets-us-meetings.genetec.com
 assets-us.genetec.com
 assets-v2.genetec.com
@@ -5386,7 +5352,6 @@ audit-blog.genetec.com
 audit-bloomreachsite-dev.genetec.com
 audit-bloomreachsite-qa.genetec.com
 audit-bloomreachsite-uat.genetec.com
-audit-bounces.genetec.com
 audit-campaigncalc.genetec.com
 audit-canadacentral.genetec.com
 audit-certtest.genetec.com
@@ -5571,7 +5536,6 @@ audit-updateservice-stage.genetec.com
 audit-updateservice-systest.genetec.com
 audit-updateservice-uat.genetec.com
 audit-updateservice.genetec.com
-audit-url9728.genetec.com
 audit-us-meetings.genetec.com
 audit-us.genetec.com
 audit-v2.genetec.com
@@ -5605,7 +5569,6 @@ auth-blog.genetec.com
 auth-bloomreachsite-dev.genetec.com
 auth-bloomreachsite-qa.genetec.com
 auth-bloomreachsite-uat.genetec.com
-auth-bounces.genetec.com
 auth-campaigncalc.genetec.com
 auth-canadacentral.genetec.com
 auth-certtest.genetec.com
@@ -5790,7 +5753,6 @@ auth-updateservice-stage.genetec.com
 auth-updateservice-systest.genetec.com
 auth-updateservice-uat.genetec.com
 auth-updateservice.genetec.com
-auth-url9728.genetec.com
 auth-us-meetings.genetec.com
 auth-us.genetec.com
 auth-v2.genetec.com
@@ -6295,7 +6257,6 @@ aws-blog.genetec.com
 aws-bloomreachsite-dev.genetec.com
 aws-bloomreachsite-qa.genetec.com
 aws-bloomreachsite-uat.genetec.com
-aws-bounces.genetec.com
 aws-campaigncalc.genetec.com
 aws-canadacentral.genetec.com
 aws-certtest.genetec.com
@@ -6480,7 +6441,6 @@ aws-updateservice-stage.genetec.com
 aws-updateservice-systest.genetec.com
 aws-updateservice-uat.genetec.com
 aws-updateservice.genetec.com
-aws-url9728.genetec.com
 aws-us-meetings.genetec.com
 aws-us.genetec.com
 aws-v2.genetec.com
@@ -7219,7 +7179,6 @@ azure-blog.genetec.com
 azure-bloomreachsite-dev.genetec.com
 azure-bloomreachsite-qa.genetec.com
 azure-bloomreachsite-uat.genetec.com
-azure-bounces.genetec.com
 azure-campaigncalc.genetec.com
 azure-canadacentral.genetec.com
 azure-certtest.genetec.com
@@ -7404,7 +7363,6 @@ azure-updateservice-stage.genetec.com
 azure-updateservice-systest.genetec.com
 azure-updateservice-uat.genetec.com
 azure-updateservice.genetec.com
-azure-url9728.genetec.com
 azure-us-meetings.genetec.com
 azure-us.genetec.com
 azure-v2.genetec.com
@@ -7438,7 +7396,6 @@ b2b-blog.genetec.com
 b2b-bloomreachsite-dev.genetec.com
 b2b-bloomreachsite-qa.genetec.com
 b2b-bloomreachsite-uat.genetec.com
-b2b-bounces.genetec.com
 b2b-campaigncalc.genetec.com
 b2b-canadacentral.genetec.com
 b2b-certtest.genetec.com
@@ -7623,7 +7580,6 @@ b2b-updateservice-stage.genetec.com
 b2b-updateservice-systest.genetec.com
 b2b-updateservice-uat.genetec.com
 b2b-updateservice.genetec.com
-b2b-url9728.genetec.com
 b2b-us-meetings.genetec.com
 b2b-us.genetec.com
 b2b-v2.genetec.com
@@ -7657,7 +7613,6 @@ b2c-blog.genetec.com
 b2c-bloomreachsite-dev.genetec.com
 b2c-bloomreachsite-qa.genetec.com
 b2c-bloomreachsite-uat.genetec.com
-b2c-bounces.genetec.com
 b2c-campaigncalc.genetec.com
 b2c-canadacentral.genetec.com
 b2c-certtest.genetec.com
@@ -7842,7 +7797,6 @@ b2c-updateservice-stage.genetec.com
 b2c-updateservice-systest.genetec.com
 b2c-updateservice-uat.genetec.com
 b2c-updateservice.genetec.com
-b2c-url9728.genetec.com
 b2c-us-meetings.genetec.com
 b2c-us.genetec.com
 b2c-v2.genetec.com
@@ -7876,7 +7830,6 @@ backup-blog.genetec.com
 backup-bloomreachsite-dev.genetec.com
 backup-bloomreachsite-qa.genetec.com
 backup-bloomreachsite-uat.genetec.com
-backup-bounces.genetec.com
 backup-campaigncalc.genetec.com
 backup-canadacentral.genetec.com
 backup-certtest.genetec.com
@@ -8061,7 +8014,6 @@ backup-updateservice-stage.genetec.com
 backup-updateservice-systest.genetec.com
 backup-updateservice-uat.genetec.com
 backup-updateservice.genetec.com
-backup-url9728.genetec.com
 backup-us-meetings.genetec.com
 backup-us.genetec.com
 backup-v2.genetec.com
@@ -8095,7 +8047,6 @@ bak-blog.genetec.com
 bak-bloomreachsite-dev.genetec.com
 bak-bloomreachsite-qa.genetec.com
 bak-bloomreachsite-uat.genetec.com
-bak-bounces.genetec.com
 bak-campaigncalc.genetec.com
 bak-canadacentral.genetec.com
 bak-certtest.genetec.com
@@ -8280,7 +8231,6 @@ bak-updateservice-stage.genetec.com
 bak-updateservice-systest.genetec.com
 bak-updateservice-uat.genetec.com
 bak-updateservice.genetec.com
-bak-url9728.genetec.com
 bak-us-meetings.genetec.com
 bak-us.genetec.com
 bak-v2.genetec.com
@@ -8314,7 +8264,6 @@ bamboo-blog.genetec.com
 bamboo-bloomreachsite-dev.genetec.com
 bamboo-bloomreachsite-qa.genetec.com
 bamboo-bloomreachsite-uat.genetec.com
-bamboo-bounces.genetec.com
 bamboo-campaigncalc.genetec.com
 bamboo-canadacentral.genetec.com
 bamboo-certtest.genetec.com
@@ -8499,7 +8448,6 @@ bamboo-updateservice-stage.genetec.com
 bamboo-updateservice-systest.genetec.com
 bamboo-updateservice-uat.genetec.com
 bamboo-updateservice.genetec.com
-bamboo-url9728.genetec.com
 bamboo-us-meetings.genetec.com
 bamboo-us.genetec.com
 bamboo-v2.genetec.com
@@ -8533,7 +8481,6 @@ beta-blog.genetec.com
 beta-bloomreachsite-dev.genetec.com
 beta-bloomreachsite-qa.genetec.com
 beta-bloomreachsite-uat.genetec.com
-beta-bounces.genetec.com
 beta-campaigncalc.genetec.com
 beta-canadacentral.genetec.com
 beta-certtest.genetec.com
@@ -8718,7 +8665,6 @@ beta-updateservice-stage.genetec.com
 beta-updateservice-systest.genetec.com
 beta-updateservice-uat.genetec.com
 beta-updateservice.genetec.com
-beta-url9728.genetec.com
 beta-us-meetings.genetec.com
 beta-us.genetec.com
 beta-v2.genetec.com
@@ -8752,7 +8698,6 @@ beta2-blog.genetec.com
 beta2-bloomreachsite-dev.genetec.com
 beta2-bloomreachsite-qa.genetec.com
 beta2-bloomreachsite-uat.genetec.com
-beta2-bounces.genetec.com
 beta2-campaigncalc.genetec.com
 beta2-canadacentral.genetec.com
 beta2-certtest.genetec.com
@@ -8937,7 +8882,6 @@ beta2-updateservice-stage.genetec.com
 beta2-updateservice-systest.genetec.com
 beta2-updateservice-uat.genetec.com
 beta2-updateservice.genetec.com
-beta2-url9728.genetec.com
 beta2-us-meetings.genetec.com
 beta2-us.genetec.com
 beta2-v2.genetec.com
@@ -9206,7 +9150,6 @@ billing-blog.genetec.com
 billing-bloomreachsite-dev.genetec.com
 billing-bloomreachsite-qa.genetec.com
 billing-bloomreachsite-uat.genetec.com
-billing-bounces.genetec.com
 billing-campaigncalc.genetec.com
 billing-canadacentral.genetec.com
 billing-certtest.genetec.com
@@ -9391,7 +9334,6 @@ billing-updateservice-stage.genetec.com
 billing-updateservice-systest.genetec.com
 billing-updateservice-uat.genetec.com
 billing-updateservice.genetec.com
-billing-url9728.genetec.com
 billing-us-meetings.genetec.com
 billing-us.genetec.com
 billing-v2.genetec.com
@@ -10030,12 +9972,71 @@ bloomreachsite-qa-pages.genetec.com
 bloomreachsite-qa-panel.genetec.com
 bloomreachsite-qa-partner.genetec.com
 bloomreachsite-qa-partners.genetec.com
+bloomreachsite-qa-payment.genetec.com
+bloomreachsite-qa-payments.genetec.com
+bloomreachsite-qa-paypal.genetec.com
+bloomreachsite-qa-pen.genetec.com
+bloomreachsite-qa-perf.genetec.com
+bloomreachsite-qa-php.genetec.com
+bloomreachsite-qa-playground.genetec.com
+bloomreachsite-qa-poc.genetec.com
+bloomreachsite-qa-policies.genetec.com
+bloomreachsite-qa-policy.genetec.com
+bloomreachsite-qa-portal.genetec.com
+bloomreachsite-qa-privacy.genetec.com
+bloomreachsite-qa-prod.genetec.com
+bloomreachsite-qa-production.genetec.com
+bloomreachsite-qa-profile.genetec.com
+bloomreachsite-qa-proxy.genetec.com
+bloomreachsite-qa-python.genetec.com
+bloomreachsite-qa-qa.genetec.com
+bloomreachsite-qa-qa1.genetec.com
+bloomreachsite-qa-redis.genetec.com
+bloomreachsite-qa-referral.genetec.com
+bloomreachsite-qa-registry.genetec.com
+bloomreachsite-qa-relay.genetec.com
+bloomreachsite-qa-release.genetec.com
+bloomreachsite-qa-releases.genetec.com
+bloomreachsite-qa-reservation.genetec.com
+bloomreachsite-qa-reserve.genetec.com
+bloomreachsite-qa-rfc.genetec.com
+bloomreachsite-qa-rust.genetec.com
+bloomreachsite-qa-s3.genetec.com
+bloomreachsite-qa-sales.genetec.com
+bloomreachsite-qa-salesforce.genetec.com
+bloomreachsite-qa-sandbox.genetec.com
+bloomreachsite-qa-sandbox2.genetec.com
+bloomreachsite-qa-sec.genetec.com
+bloomreachsite-qa-security.genetec.com
+bloomreachsite-qa-sendgrid.genetec.com
+bloomreachsite-qa-sftp.genetec.com
+bloomreachsite-qa-shop-api.genetec.com
+bloomreachsite-qa-shop.genetec.com
+bloomreachsite-qa-sit.genetec.com
+bloomreachsite-qa-sit2.genetec.com
+bloomreachsite-qa-site.genetec.com
+bloomreachsite-qa-sites.genetec.com
+bloomreachsite-qa-smtp.genetec.com
+bloomreachsite-qa-sonar.genetec.com
+bloomreachsite-qa-sql.genetec.com
+bloomreachsite-qa-ssh.genetec.com
+bloomreachsite-qa-sso.genetec.com
+bloomreachsite-qa-stage.genetec.com
+bloomreachsite-qa-staging.genetec.com
+bloomreachsite-qa-staging2.genetec.com
+bloomreachsite-qa-static.genetec.com
+bloomreachsite-qa-status.genetec.com
+bloomreachsite-qa-store.genetec.com
+bloomreachsite-qa-stress.genetec.com
+bloomreachsite-qa-stripe.genetec.com
+bloomreachsite-qa-support.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
 booking.genetec.com
-bounces.genetec.com
+boss.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10043,6 +10044,7 @@ cdn.downloadcenter2.genetec.com
 cdn.genetec.com
 certtest.genetec.com
 chat.downloadcenter.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10067,7 +10069,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10086,6 +10087,7 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
+distribution.genetec.com
 dns.genetec.com
 dns2.downloadcenter.genetec.com
 dns2.info.genetec.com
@@ -10120,6 +10122,7 @@ experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
 external.downloadcenter.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10208,7 +10211,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10245,10 +10247,12 @@ mail2.downloadcenter.genetec.com
 mailchimp.genetec.com
 mailer.genetec.com
 maintenance.genetec.com
+maratona.genetec.com
 marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
+meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10259,6 +10263,7 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
+msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10382,6 +10387,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10453,7 +10459,6 @@ updateservice-stage.genetec.com
 updateservice-systest.genetec.com
 updateservice-uat.genetec.com
 updateservice.genetec.com
-url9728.genetec.com
 us-meetings.genetec.com
 us.login.genetec.com
 user.genetec.com
