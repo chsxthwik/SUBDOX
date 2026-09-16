@@ -1,4 +1,4 @@
-5201314.genetec.com
+5194.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -10034,11 +10034,9 @@ bloomreachsite-qa-logs.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
-calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10112,7 +10110,6 @@ edge.genetec.com
 edge.info.genetec.com
 eforms.genetec.com
 elastic.genetec.com
-email.genetec.com
 email.rnd.genetec.com
 erp.genetec.com
 es.genetec.com
@@ -10203,7 +10200,6 @@ jobs-dryrun.id.genetec.com
 jobs.id.genetec.com
 k8s.genetec.com
 kibana.genetec.com
-knowledge.genetec.com
 kube.genetec.com
 kubernetes.genetec.com
 lab.genetec.com
@@ -10249,7 +10245,6 @@ mail2.downloadcenter.genetec.com
 mailchimp.genetec.com
 mailer.genetec.com
 maintenance.genetec.com
-marcos.genetec.com
 marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
@@ -10264,7 +10259,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10442,7 +10436,6 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
-tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
