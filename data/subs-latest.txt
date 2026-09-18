@@ -7969,7 +7969,6 @@ bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -9937,6 +9936,7 @@ booking-westus.genetec.com
 booking-www.genetec.com
 booking-www3.genetec.com
 booking.genetec.com
+boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10038,7 +10038,6 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
-chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10059,11 +10058,9 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
-crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10104,7 +10101,6 @@ edcp.genetec.com
 edge.genetec.com
 eforms.genetec.com
 elastic.genetec.com
-email.genetec.com
 email.rnd.genetec.com
 erp.genetec.com
 es.genetec.com
@@ -10138,6 +10134,7 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
+genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10231,12 +10228,10 @@ mail.updateservice.genetec.com
 mailchimp.genetec.com
 mailer.genetec.com
 maintenance.genetec.com
-mal.genetec.com
 marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10265,7 +10260,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10308,7 +10302,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
