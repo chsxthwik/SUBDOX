@@ -93,6 +93,7 @@ account-jobs-dryrun.genetec.com
 account-jobs.genetec.com
 account-learn.genetec.com
 account-learningcrew.genetec.com
+account-licensing.genetec.com
 account-lyncedge.genetec.com
 account-mail1.genetec.com
 account-mail2.genetec.com
@@ -314,6 +315,7 @@ accounts-jobs-dryrun.genetec.com
 accounts-jobs.genetec.com
 accounts-learn.genetec.com
 accounts-learningcrew.genetec.com
+accounts-licensing.genetec.com
 accounts-lyncedge.genetec.com
 accounts-mail1.genetec.com
 accounts-mail2.genetec.com
@@ -1244,6 +1246,7 @@ admin-api-jobs-dryrun.genetec.com
 admin-api-jobs.genetec.com
 admin-api-learn.genetec.com
 admin-api-learningcrew.genetec.com
+admin-api-licensing.genetec.com
 admin-api-lyncedge.genetec.com
 admin-api-mail1.genetec.com
 admin-api-mail2.genetec.com
@@ -1461,6 +1464,7 @@ admin-jobs-dryrun.genetec.com
 admin-jobs.genetec.com
 admin-learn.genetec.com
 admin-learningcrew.genetec.com
+admin-licensing.genetec.com
 admin-lyncedge.genetec.com
 admin-mail1.genetec.com
 admin-mail2.genetec.com
@@ -1683,6 +1687,7 @@ administrator-jobs-dryrun.genetec.com
 administrator-jobs.genetec.com
 administrator-learn.genetec.com
 administrator-learningcrew.genetec.com
+administrator-licensing.genetec.com
 administrator-lyncedge.genetec.com
 administrator-mail1.genetec.com
 administrator-mail2.genetec.com
@@ -1904,6 +1909,7 @@ affiliate-jobs-dryrun.genetec.com
 affiliate-jobs.genetec.com
 affiliate-learn.genetec.com
 affiliate-learningcrew.genetec.com
+affiliate-licensing.genetec.com
 affiliate-lyncedge.genetec.com
 affiliate-mail1.genetec.com
 affiliate-mail2.genetec.com
@@ -2360,6 +2366,7 @@ akamai-jobs-dryrun.genetec.com
 akamai-jobs.genetec.com
 akamai-learn.genetec.com
 akamai-learningcrew.genetec.com
+akamai-licensing.genetec.com
 akamai-lyncedge.genetec.com
 akamai-mail1.genetec.com
 akamai-mail2.genetec.com
@@ -2581,6 +2588,7 @@ alpha-jobs-dryrun.genetec.com
 alpha-jobs.genetec.com
 alpha-learn.genetec.com
 alpha-learningcrew.genetec.com
+alpha-licensing.genetec.com
 alpha-lyncedge.genetec.com
 alpha-mail1.genetec.com
 alpha-mail2.genetec.com
@@ -2802,6 +2810,7 @@ apache-jobs-dryrun.genetec.com
 apache-jobs.genetec.com
 apache-learn.genetec.com
 apache-learningcrew.genetec.com
+apache-licensing.genetec.com
 apache-lyncedge.genetec.com
 apache-mail1.genetec.com
 apache-mail2.genetec.com
@@ -3026,6 +3035,7 @@ api-admin-jobs-dryrun.genetec.com
 api-admin-jobs.genetec.com
 api-admin-learn.genetec.com
 api-admin-learningcrew.genetec.com
+api-admin-licensing.genetec.com
 api-admin-lyncedge.genetec.com
 api-admin-mail1.genetec.com
 api-admin-mail2.genetec.com
@@ -3331,6 +3341,7 @@ api-internal-jobs-dryrun.genetec.com
 api-internal-jobs.genetec.com
 api-internal-learn.genetec.com
 api-internal-learningcrew.genetec.com
+api-internal-licensing.genetec.com
 api-internal-lyncedge.genetec.com
 api-internal-mail1.genetec.com
 api-internal-mail2.genetec.com
@@ -3465,6 +3476,7 @@ api-jobs-dryrun.genetec.com
 api-jobs.genetec.com
 api-learn.genetec.com
 api-learningcrew.genetec.com
+api-licensing.genetec.com
 api-lyncedge.genetec.com
 api-mail1.genetec.com
 api-mail2.genetec.com
@@ -3686,6 +3698,7 @@ app-jobs-dryrun.genetec.com
 app-jobs.genetec.com
 app-learn.genetec.com
 app-learningcrew.genetec.com
+app-licensing.genetec.com
 app-lyncedge.genetec.com
 app-mail1.genetec.com
 app-mail2.genetec.com
@@ -4142,6 +4155,7 @@ apps-jobs-dryrun.genetec.com
 apps-jobs.genetec.com
 apps-learn.genetec.com
 apps-learningcrew.genetec.com
+apps-licensing.genetec.com
 apps-lyncedge.genetec.com
 apps-mail1.genetec.com
 apps-mail2.genetec.com
@@ -4598,6 +4612,7 @@ archive-jobs-dryrun.genetec.com
 archive-jobs.genetec.com
 archive-learn.genetec.com
 archive-learningcrew.genetec.com
+archive-licensing.genetec.com
 archive-lyncedge.genetec.com
 archive-mail1.genetec.com
 archive-mail2.genetec.com
@@ -4819,6 +4834,7 @@ artifactory-jobs-dryrun.genetec.com
 artifactory-jobs.genetec.com
 artifactory-learn.genetec.com
 artifactory-learningcrew.genetec.com
+artifactory-licensing.genetec.com
 artifactory-lyncedge.genetec.com
 artifactory-mail1.genetec.com
 artifactory-mail2.genetec.com
@@ -5275,6 +5291,7 @@ assets-jobs-dryrun.genetec.com
 assets-jobs.genetec.com
 assets-learn.genetec.com
 assets-learningcrew.genetec.com
+assets-licensing.genetec.com
 assets-lyncedge.genetec.com
 assets-mail1.genetec.com
 assets-mail2.genetec.com
@@ -5497,6 +5514,7 @@ audit-jobs-dryrun.genetec.com
 audit-jobs.genetec.com
 audit-learn.genetec.com
 audit-learningcrew.genetec.com
+audit-licensing.genetec.com
 audit-lyncedge.genetec.com
 audit-mail1.genetec.com
 audit-mail2.genetec.com
@@ -5718,6 +5736,7 @@ auth-jobs-dryrun.genetec.com
 auth-jobs.genetec.com
 auth-learn.genetec.com
 auth-learningcrew.genetec.com
+auth-licensing.genetec.com
 auth-lyncedge.genetec.com
 auth-mail1.genetec.com
 auth-mail2.genetec.com
@@ -6410,6 +6429,7 @@ aws-jobs-dryrun.genetec.com
 aws-jobs.genetec.com
 aws-learn.genetec.com
 aws-learningcrew.genetec.com
+aws-licensing.genetec.com
 aws-lyncedge.genetec.com
 aws-mail1.genetec.com
 aws-mail2.genetec.com
@@ -7336,6 +7356,7 @@ azure-jobs-dryrun.genetec.com
 azure-jobs.genetec.com
 azure-learn.genetec.com
 azure-learningcrew.genetec.com
+azure-licensing.genetec.com
 azure-lyncedge.genetec.com
 azure-mail1.genetec.com
 azure-mail2.genetec.com
@@ -7557,6 +7578,7 @@ b2b-jobs-dryrun.genetec.com
 b2b-jobs.genetec.com
 b2b-learn.genetec.com
 b2b-learningcrew.genetec.com
+b2b-licensing.genetec.com
 b2b-lyncedge.genetec.com
 b2b-mail1.genetec.com
 b2b-mail2.genetec.com
@@ -7778,6 +7800,7 @@ b2c-jobs-dryrun.genetec.com
 b2c-jobs.genetec.com
 b2c-learn.genetec.com
 b2c-learningcrew.genetec.com
+b2c-licensing.genetec.com
 b2c-lyncedge.genetec.com
 b2c-mail1.genetec.com
 b2c-mail2.genetec.com
@@ -7999,6 +8022,7 @@ backup-jobs-dryrun.genetec.com
 backup-jobs.genetec.com
 backup-learn.genetec.com
 backup-learningcrew.genetec.com
+backup-licensing.genetec.com
 backup-lyncedge.genetec.com
 backup-mail1.genetec.com
 backup-mail2.genetec.com
@@ -8220,6 +8244,7 @@ bak-jobs-dryrun.genetec.com
 bak-jobs.genetec.com
 bak-learn.genetec.com
 bak-learningcrew.genetec.com
+bak-licensing.genetec.com
 bak-lyncedge.genetec.com
 bak-mail1.genetec.com
 bak-mail2.genetec.com
@@ -8441,6 +8466,7 @@ bamboo-jobs-dryrun.genetec.com
 bamboo-jobs.genetec.com
 bamboo-learn.genetec.com
 bamboo-learningcrew.genetec.com
+bamboo-licensing.genetec.com
 bamboo-lyncedge.genetec.com
 bamboo-mail1.genetec.com
 bamboo-mail2.genetec.com
@@ -8568,7 +8594,6 @@ bamboo-ww2.genetec.com
 bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -8663,6 +8688,7 @@ beta-jobs-dryrun.genetec.com
 beta-jobs.genetec.com
 beta-learn.genetec.com
 beta-learningcrew.genetec.com
+beta-licensing.genetec.com
 beta-lyncedge.genetec.com
 beta-mail1.genetec.com
 beta-mail2.genetec.com
@@ -8884,6 +8910,7 @@ beta2-jobs-dryrun.genetec.com
 beta2-jobs.genetec.com
 beta2-learn.genetec.com
 beta2-learningcrew.genetec.com
+beta2-licensing.genetec.com
 beta2-lyncedge.genetec.com
 beta2-mail1.genetec.com
 beta2-mail2.genetec.com
@@ -9340,6 +9367,7 @@ billing-jobs-dryrun.genetec.com
 billing-jobs.genetec.com
 billing-learn.genetec.com
 billing-learningcrew.genetec.com
+billing-licensing.genetec.com
 billing-lyncedge.genetec.com
 billing-mail1.genetec.com
 billing-mail2.genetec.com
@@ -10002,35 +10030,6 @@ bloomreachsite-qa-downloads.genetec.com
 bloomreachsite-qa-drone.genetec.com
 bloomreachsite-qa-edge.genetec.com
 bloomreachsite-qa-elastic.genetec.com
-bloomreachsite-qa-erp.genetec.com
-bloomreachsite-qa-es.genetec.com
-bloomreachsite-qa-event.genetec.com
-bloomreachsite-qa-events.genetec.com
-bloomreachsite-qa-experiment.genetec.com
-bloomreachsite-qa-fastly.genetec.com
-bloomreachsite-qa-feature.genetec.com
-bloomreachsite-qa-features.genetec.com
-bloomreachsite-qa-feedback.genetec.com
-bloomreachsite-qa-files.genetec.com
-bloomreachsite-qa-fix.genetec.com
-bloomreachsite-qa-form.genetec.com
-bloomreachsite-qa-forms.genetec.com
-bloomreachsite-qa-freshdesk.genetec.com
-bloomreachsite-qa-ftp.genetec.com
-bloomreachsite-qa-gateway.genetec.com
-bloomreachsite-qa-gateway2.genetec.com
-bloomreachsite-qa-gcp.genetec.com
-bloomreachsite-qa-gdpr.genetec.com
-bloomreachsite-qa-git.genetec.com
-bloomreachsite-qa-github.genetec.com
-bloomreachsite-qa-gitlab.genetec.com
-bloomreachsite-qa-go.genetec.com
-bloomreachsite-qa-grafana.genetec.com
-bloomreachsite-qa-gw.genetec.com
-bloomreachsite-qa-help.genetec.com
-bloomreachsite-qa-heroku.genetec.com
-bloomreachsite-qa-hotfix.genetec.com
-bloomreachsite-qa-hr.genetec.com
 bloomreachsite-qa.genetec.com
 bloomreachsite-uat.genetec.com
 booking.genetec.com
@@ -10145,6 +10144,7 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
+genetec.comdap.genetec.com
 genetec.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
@@ -10209,6 +10209,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
 log.genetec.com
