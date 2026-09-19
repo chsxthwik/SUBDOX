@@ -22,7 +22,6 @@ account-canadacentral.genetec.com
 account-clearpath.genetec.com
 account-cloudops01.genetec.com
 account-cmg.genetec.com
-account-coursewaredirectory.genetec.com
 account-cpq-dev.genetec.com
 account-cpq-qa.genetec.com
 account-cpq-uat.genetec.com
@@ -219,7 +218,6 @@ accounts-canadacentral.genetec.com
 accounts-clearpath.genetec.com
 accounts-cloudops01.genetec.com
 accounts-cmg.genetec.com
-accounts-coursewaredirectory.genetec.com
 accounts-cpq-dev.genetec.com
 accounts-cpq-qa.genetec.com
 accounts-cpq-uat.genetec.com
@@ -1125,7 +1123,6 @@ admin-api-canadacentral.genetec.com
 admin-api-clearpath.genetec.com
 admin-api-cloudops01.genetec.com
 admin-api-cmg.genetec.com
-admin-api-coursewaredirectory.genetec.com
 admin-api-cpq-dev.genetec.com
 admin-api-cpq-qa.genetec.com
 admin-api-cpq-uat.genetec.com
@@ -1318,7 +1315,6 @@ admin-canadacentral.genetec.com
 admin-clearpath.genetec.com
 admin-cloudops01.genetec.com
 admin-cmg.genetec.com
-admin-coursewaredirectory.genetec.com
 admin-cpq-dev.genetec.com
 admin-cpq-qa.genetec.com
 admin-cpq-uat.genetec.com
@@ -1515,7 +1511,6 @@ administrator-canadacentral.genetec.com
 administrator-clearpath.genetec.com
 administrator-cloudops01.genetec.com
 administrator-cmg.genetec.com
-administrator-coursewaredirectory.genetec.com
 administrator-cpq-dev.genetec.com
 administrator-cpq-qa.genetec.com
 administrator-cpq-uat.genetec.com
@@ -1712,7 +1707,6 @@ affiliate-canadacentral.genetec.com
 affiliate-clearpath.genetec.com
 affiliate-cloudops01.genetec.com
 affiliate-cmg.genetec.com
-affiliate-coursewaredirectory.genetec.com
 affiliate-cpq-dev.genetec.com
 affiliate-cpq-qa.genetec.com
 affiliate-cpq-uat.genetec.com
@@ -2144,7 +2138,6 @@ akamai-canadacentral.genetec.com
 akamai-clearpath.genetec.com
 akamai-cloudops01.genetec.com
 akamai-cmg.genetec.com
-akamai-coursewaredirectory.genetec.com
 akamai-cpq-dev.genetec.com
 akamai-cpq-qa.genetec.com
 akamai-cpq-uat.genetec.com
@@ -2341,7 +2334,6 @@ alpha-canadacentral.genetec.com
 alpha-clearpath.genetec.com
 alpha-cloudops01.genetec.com
 alpha-cmg.genetec.com
-alpha-coursewaredirectory.genetec.com
 alpha-cpq-dev.genetec.com
 alpha-cpq-qa.genetec.com
 alpha-cpq-uat.genetec.com
@@ -2538,7 +2530,6 @@ apache-canadacentral.genetec.com
 apache-clearpath.genetec.com
 apache-cloudops01.genetec.com
 apache-cmg.genetec.com
-apache-coursewaredirectory.genetec.com
 apache-cpq-dev.genetec.com
 apache-cpq-qa.genetec.com
 apache-cpq-uat.genetec.com
@@ -2738,7 +2729,6 @@ api-admin-canadacentral.genetec.com
 api-admin-clearpath.genetec.com
 api-admin-cloudops01.genetec.com
 api-admin-cmg.genetec.com
-api-admin-coursewaredirectory.genetec.com
 api-admin-cpq-dev.genetec.com
 api-admin-cpq-qa.genetec.com
 api-admin-cpq-uat.genetec.com
@@ -2932,7 +2922,6 @@ api-canadacentral.genetec.com
 api-clearpath.genetec.com
 api-cloudops01.genetec.com
 api-cmg.genetec.com
-api-coursewaredirectory.genetec.com
 api-cpq-dev.genetec.com
 api-cpq-qa.genetec.com
 api-cpq-uat.genetec.com
@@ -3013,7 +3002,6 @@ api-internal-canadacentral.genetec.com
 api-internal-clearpath.genetec.com
 api-internal-cloudops01.genetec.com
 api-internal-cmg.genetec.com
-api-internal-coursewaredirectory.genetec.com
 api-internal-cpq-dev.genetec.com
 api-internal-cpq-qa.genetec.com
 api-internal-cpq-uat.genetec.com
@@ -3326,7 +3314,6 @@ app-canadacentral.genetec.com
 app-clearpath.genetec.com
 app-cloudops01.genetec.com
 app-cmg.genetec.com
-app-coursewaredirectory.genetec.com
 app-cpq-dev.genetec.com
 app-cpq-qa.genetec.com
 app-cpq-uat.genetec.com
@@ -3758,7 +3745,6 @@ apps-canadacentral.genetec.com
 apps-clearpath.genetec.com
 apps-cloudops01.genetec.com
 apps-cmg.genetec.com
-apps-coursewaredirectory.genetec.com
 apps-cpq-dev.genetec.com
 apps-cpq-qa.genetec.com
 apps-cpq-uat.genetec.com
@@ -4190,7 +4176,6 @@ archive-canadacentral.genetec.com
 archive-clearpath.genetec.com
 archive-cloudops01.genetec.com
 archive-cmg.genetec.com
-archive-coursewaredirectory.genetec.com
 archive-cpq-dev.genetec.com
 archive-cpq-qa.genetec.com
 archive-cpq-uat.genetec.com
@@ -4387,7 +4372,6 @@ artifactory-canadacentral.genetec.com
 artifactory-clearpath.genetec.com
 artifactory-cloudops01.genetec.com
 artifactory-cmg.genetec.com
-artifactory-coursewaredirectory.genetec.com
 artifactory-cpq-dev.genetec.com
 artifactory-cpq-qa.genetec.com
 artifactory-cpq-uat.genetec.com
@@ -4819,7 +4803,6 @@ assets-canadacentral.genetec.com
 assets-clearpath.genetec.com
 assets-cloudops01.genetec.com
 assets-cmg.genetec.com
-assets-coursewaredirectory.genetec.com
 assets-cpq-dev.genetec.com
 assets-cpq-qa.genetec.com
 assets-cpq-uat.genetec.com
@@ -5017,7 +5000,6 @@ audit-canadacentral.genetec.com
 audit-clearpath.genetec.com
 audit-cloudops01.genetec.com
 audit-cmg.genetec.com
-audit-coursewaredirectory.genetec.com
 audit-cpq-dev.genetec.com
 audit-cpq-qa.genetec.com
 audit-cpq-uat.genetec.com
@@ -5214,7 +5196,6 @@ auth-canadacentral.genetec.com
 auth-clearpath.genetec.com
 auth-cloudops01.genetec.com
 auth-cmg.genetec.com
-auth-coursewaredirectory.genetec.com
 auth-cpq-dev.genetec.com
 auth-cpq-qa.genetec.com
 auth-cpq-uat.genetec.com
@@ -5882,7 +5863,6 @@ aws-canadacentral.genetec.com
 aws-clearpath.genetec.com
 aws-cloudops01.genetec.com
 aws-cmg.genetec.com
-aws-coursewaredirectory.genetec.com
 aws-cpq-dev.genetec.com
 aws-cpq-qa.genetec.com
 aws-cpq-uat.genetec.com
@@ -6784,7 +6764,6 @@ azure-canadacentral.genetec.com
 azure-clearpath.genetec.com
 azure-cloudops01.genetec.com
 azure-cmg.genetec.com
-azure-coursewaredirectory.genetec.com
 azure-cpq-dev.genetec.com
 azure-cpq-qa.genetec.com
 azure-cpq-uat.genetec.com
@@ -6981,7 +6960,6 @@ b2b-canadacentral.genetec.com
 b2b-clearpath.genetec.com
 b2b-cloudops01.genetec.com
 b2b-cmg.genetec.com
-b2b-coursewaredirectory.genetec.com
 b2b-cpq-dev.genetec.com
 b2b-cpq-qa.genetec.com
 b2b-cpq-uat.genetec.com
@@ -7178,7 +7156,6 @@ b2c-canadacentral.genetec.com
 b2c-clearpath.genetec.com
 b2c-cloudops01.genetec.com
 b2c-cmg.genetec.com
-b2c-coursewaredirectory.genetec.com
 b2c-cpq-dev.genetec.com
 b2c-cpq-qa.genetec.com
 b2c-cpq-uat.genetec.com
@@ -7375,7 +7352,6 @@ backup-canadacentral.genetec.com
 backup-clearpath.genetec.com
 backup-cloudops01.genetec.com
 backup-cmg.genetec.com
-backup-coursewaredirectory.genetec.com
 backup-cpq-dev.genetec.com
 backup-cpq-qa.genetec.com
 backup-cpq-uat.genetec.com
@@ -7572,7 +7548,6 @@ bak-canadacentral.genetec.com
 bak-clearpath.genetec.com
 bak-cloudops01.genetec.com
 bak-cmg.genetec.com
-bak-coursewaredirectory.genetec.com
 bak-cpq-dev.genetec.com
 bak-cpq-qa.genetec.com
 bak-cpq-uat.genetec.com
@@ -7769,7 +7744,6 @@ bamboo-canadacentral.genetec.com
 bamboo-clearpath.genetec.com
 bamboo-cloudops01.genetec.com
 bamboo-cmg.genetec.com
-bamboo-coursewaredirectory.genetec.com
 bamboo-cpq-dev.genetec.com
 bamboo-cpq-qa.genetec.com
 bamboo-cpq-uat.genetec.com
@@ -7966,7 +7940,6 @@ beta-canadacentral.genetec.com
 beta-clearpath.genetec.com
 beta-cloudops01.genetec.com
 beta-cmg.genetec.com
-beta-coursewaredirectory.genetec.com
 beta-cpq-dev.genetec.com
 beta-cpq-qa.genetec.com
 beta-cpq-uat.genetec.com
@@ -8163,7 +8136,6 @@ beta2-canadacentral.genetec.com
 beta2-clearpath.genetec.com
 beta2-cloudops01.genetec.com
 beta2-cmg.genetec.com
-beta2-coursewaredirectory.genetec.com
 beta2-cpq-dev.genetec.com
 beta2-cpq-qa.genetec.com
 beta2-cpq-uat.genetec.com
@@ -8595,7 +8567,6 @@ billing-canadacentral.genetec.com
 billing-clearpath.genetec.com
 billing-cloudops01.genetec.com
 billing-cmg.genetec.com
-billing-coursewaredirectory.genetec.com
 billing-cpq-dev.genetec.com
 billing-cpq-qa.genetec.com
 billing-cpq-uat.genetec.com
@@ -9732,7 +9703,6 @@ booking-canadacentral.genetec.com
 booking-clearpath.genetec.com
 booking-cloudops01.genetec.com
 booking-cmg.genetec.com
-booking-coursewaredirectory.genetec.com
 booking-cpq-dev.genetec.com
 booking-cpq-qa.genetec.com
 booking-cpq-uat.genetec.com
@@ -10030,6 +10000,36 @@ bounces-log.genetec.com
 bounces-login.genetec.com
 bounces-logs.genetec.com
 bounces-m.genetec.com
+bounces-mail.genetec.com
+bounces-mailchimp.genetec.com
+bounces-marketing.genetec.com
+bounces-marketo.genetec.com
+bounces-media.genetec.com
+bounces-metrics.genetec.com
+bounces-mobile.genetec.com
+bounces-monitor.genetec.com
+bounces-monitoring.genetec.com
+bounces-mx.genetec.com
+bounces-mx1.genetec.com
+bounces-netlify.genetec.com
+bounces-new.genetec.com
+bounces-nex.genetec.com
+bounces-nexus.genetec.com
+bounces-nginx.genetec.com
+bounces-node.genetec.com
+bounces-nodejs.genetec.com
+bounces-ns.genetec.com
+bounces-ns1.genetec.com
+bounces-ns2.genetec.com
+bounces-oauth.genetec.com
+bounces-old.genetec.com
+bounces-orders.genetec.com
+bounces-pages.genetec.com
+bounces-panel.genetec.com
+bounces-partner.genetec.com
+bounces-partners.genetec.com
+bounces-payment.genetec.com
+bounces-payments.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
@@ -10052,7 +10052,6 @@ console.genetec.com
 content.genetec.com
 corp.genetec.com
 corporate.genetec.com
-coursewaredirectory.genetec.com
 cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
@@ -10109,7 +10108,6 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
-facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10240,7 +10238,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
