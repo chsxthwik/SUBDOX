@@ -7943,7 +7943,6 @@ bamboo-westeurope.genetec.com
 bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -9907,7 +9906,6 @@ booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10035,6 +10033,7 @@ bounces-m.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10113,6 +10112,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10196,6 +10196,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10244,6 +10245,7 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
+msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10262,6 +10264,7 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10357,6 +10360,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10446,6 +10450,7 @@ westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
 www.as2edi.genetec.com
+www.dap.genetec.com
 www.dio.nonprod.genetec.com
 www.downloadcenter2.genetec.com
 www.downloadcenter3.genetec.com
@@ -10456,6 +10461,7 @@ www.gpnsprod.genetec.com
 www.gpnsstage.genetec.com
 www.id.genetec.com
 www.jobs.id.genetec.com
+www.learningcrew.genetec.com
 www.login.genetec.com
 www.staging.login.genetec.com
 www.subscriptions.genetec.com
