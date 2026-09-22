@@ -7943,7 +7943,6 @@ bamboo-westeurope.genetec.com
 bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -10034,6 +10033,7 @@ bounces-m.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10061,7 +10061,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10080,7 +10079,6 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
-distribution.genetec.com
 dns.genetec.com
 docker.genetec.com
 docs.genetec.com
@@ -10182,7 +10180,6 @@ is-spk01.genetec.com
 ithelp.genetec.com
 java.genetec.com
 jenkins.genetec.com
-ji.genetec.com
 jira.genetec.com
 jobs-dryrun.id.genetec.com
 jobs.id.genetec.com
@@ -10234,7 +10231,6 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10245,7 +10241,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10359,7 +10354,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10448,7 +10442,6 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
-www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
