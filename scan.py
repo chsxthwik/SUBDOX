@@ -25,6 +25,7 @@ import os
 import re
 import sqlite3
 import sys
+import time
 from datetime import datetime, timezone
 
 import requests
@@ -301,9 +302,13 @@ def telegram_send(text):
             )
             if r.ok:
                 return True, "ok"
-        except requests.RequestException:
-            pass
-    return False, "send failed after retries"
+            detail = (r.text or "").strip().replace("\n", " ")[:180]
+            last = f"HTTP {r.status_code} {detail}".strip()
+        except requests.RequestException as exc:
+            last = exc.__class__.__name__
+        if attempt < 2:
+            time.sleep(1 + attempt)
+    return False, last or "send failed after retries"
 
 
 SEVERITY_TAG = {"high": "[TAKEOVER]", "medium": "[REVIEW]", "info": "[DANGLING]"}
