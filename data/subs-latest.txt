@@ -10034,7 +10034,6 @@ bounces-hr.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
-calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10080,6 +10079,7 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
+distribution.genetec.com
 dns.genetec.com
 docker.genetec.com
 docs.genetec.com
@@ -10111,6 +10111,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10134,7 +10135,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10195,6 +10195,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10233,7 +10234,6 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10244,7 +10244,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10410,6 +10409,7 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
+tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
