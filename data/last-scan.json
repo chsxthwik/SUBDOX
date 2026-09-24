@@ -1,6 +1,6 @@
 {
- "run_at": "2026-09-24 05:07 UTC",
- "subdomains_tracked": 10473,
+ "run_at": "2026-09-24 12:00 UTC",
+ "subdomains_tracked": 10485,
  "cname_hosts": 41,
  "findings": [
   {
