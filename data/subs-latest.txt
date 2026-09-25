@@ -2318,6 +2318,7 @@ akamai-westeurope.genetec.com
 akamai-westus.genetec.com
 akamai-www.genetec.com
 akamai.genetec.com
+aldebaran.genetec.com
 alpha-add-ons-elasticsearch.genetec.com
 alpha-add-ons-server.genetec.com
 alpha-add-ons.genetec.com
@@ -10034,10 +10035,12 @@ bounces-m.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10061,7 +10064,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10080,6 +10082,7 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
+distribution.genetec.com
 dns.genetec.com
 docker.genetec.com
 docs.genetec.com
@@ -10101,6 +10104,7 @@ edcp.genetec.com
 edge.genetec.com
 eforms.genetec.com
 elastic.genetec.com
+email.genetec.com
 email.rnd.genetec.com
 erp.genetec.com
 es.genetec.com
@@ -10111,6 +10115,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10177,6 +10182,7 @@ internal.genetec.com
 intranet.genetec.com
 invoice.genetec.com
 is-spk01.genetec.com
+isms.genetec.com
 ithelp.genetec.com
 java.genetec.com
 jenkins.genetec.com
@@ -10244,6 +10250,7 @@ monitoring.genetec.com
 msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
+net.genetec.com
 netbox.genetec.com
 netlify.genetec.com
 new.genetec.com
@@ -10260,6 +10267,7 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10302,6 +10310,7 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
+promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10355,6 +10364,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10443,6 +10453,7 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
+www-dev.genetec.com
 www.as2edi.genetec.com
 www.dio.nonprod.genetec.com
 www.downloadcenter2.genetec.com
