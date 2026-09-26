@@ -10034,6 +10034,7 @@ bounces-hr.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10113,6 +10114,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10136,7 +10138,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10180,6 +10181,7 @@ internal.genetec.com
 intranet.genetec.com
 invoice.genetec.com
 is-spk01.genetec.com
+isms.genetec.com
 ithelp.genetec.com
 java.genetec.com
 jenkins.genetec.com
@@ -10188,6 +10190,7 @@ jobs-dryrun.id.genetec.com
 jobs.id.genetec.com
 k8s.genetec.com
 kibana.genetec.com
+knowledge.genetec.com
 kube.genetec.com
 kubernetes.genetec.com
 lab.genetec.com
@@ -10197,6 +10200,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10234,6 +10238,7 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
+meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10244,7 +10249,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 net.genetec.com
@@ -10264,6 +10268,7 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10307,7 +10312,6 @@ production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
 proxy.genetec.com
-publications.genetec.com
 python.genetec.com
 qa-www.genetec.com
 qa.genetec.com
@@ -10441,7 +10445,6 @@ vpnmtl.genetec.com
 vpnmtl2.genetec.com
 vpnmtltest.genetec.com
 vscodemp.genetec.com
-w4.genetec.com
 wap.genetec.com
 web.genetec.com
 webconf.genetec.com
@@ -10452,6 +10455,7 @@ westus.staging.login.genetec.com
 wiki.genetec.com
 www-dev.genetec.com
 www.as2edi.genetec.com
+www.dap.genetec.com
 www.dio.nonprod.genetec.com
 www.downloadcenter2.genetec.com
 www.downloadcenter3.genetec.com
@@ -10462,6 +10466,7 @@ www.gpnsprod.genetec.com
 www.gpnsstage.genetec.com
 www.id.genetec.com
 www.jobs.id.genetec.com
+www.learningcrew.genetec.com
 www.login.genetec.com
 www.staging.login.genetec.com
 www.subscriptions.genetec.com
