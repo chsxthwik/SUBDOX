@@ -1,4 +1,4 @@
-70.genetec.com
+6456.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -4812,7 +4812,6 @@ as2edi-wiki.genetec.com
 as2edi-www2.genetec.com
 as2edi-zendesk.genetec.com
 as2edi.genetec.com
-ask.genetec.com
 assets-add-ons-elasticsearch.genetec.com
 assets-add-ons-server.genetec.com
 assets-add-ons.genetec.com
@@ -10040,6 +10039,7 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10060,10 +10060,10 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
+crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-daesin.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10104,7 +10104,6 @@ edcp.genetec.com
 edge.genetec.com
 eforms.genetec.com
 elastic.genetec.com
-email.genetec.com
 email.rnd.genetec.com
 erp.genetec.com
 es.genetec.com
@@ -10139,7 +10138,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10191,7 +10189,6 @@ jobs-dryrun.id.genetec.com
 jobs.id.genetec.com
 k8s.genetec.com
 kibana.genetec.com
-knowledge.genetec.com
 kube.genetec.com
 kubernetes.genetec.com
 lab.genetec.com
@@ -10201,7 +10198,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10250,8 +10246,8 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
+moose.genetec.com
 msoid.genetec.com
-mta.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10313,6 +10309,7 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
+promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10417,7 +10414,6 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
-tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
@@ -10429,9 +10425,6 @@ twilio.genetec.com
 uat-api.genetec.com
 uat.genetec.com
 uat2.genetec.com
-ufa.genetec.com
-ufo.genetec.com
-uhost.genetec.com
 updaterservices.genetec.com
 updateservice-dev.genetec.com
 updateservice-stage.genetec.com
