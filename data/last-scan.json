@@ -1,7 +1,7 @@
 {
- "run_at": "2026-10-09 06:23 UTC",
- "subdomains_tracked": 10445,
- "cname_hosts": 41,
+ "run_at": "2026-10-09 13:36 UTC",
+ "subdomains_tracked": 10439,
+ "cname_hosts": 42,
  "findings": [
   {
    "subdomain": "sip.genetec.com",
