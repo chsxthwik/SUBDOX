@@ -9966,6 +9966,7 @@ booking-westus.genetec.com
 booking-www.genetec.com
 booking-www3.genetec.com
 booking.genetec.com
+boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10135,6 +10136,7 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
+genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10242,6 +10244,7 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
+one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10284,7 +10287,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10388,7 +10390,6 @@ test.genetec.com
 test.login.genetec.com
 testapp.login.genetec.com
 testing.genetec.com
-tfs.genetec.com
 ticket.genetec.com
 tickets.genetec.com
 tip.genetec.com
@@ -10427,7 +10428,6 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
-www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
