@@ -1,4 +1,4 @@
-48.genetec.com
+60.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -9936,7 +9936,6 @@ booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10034,7 +10033,6 @@ bounces-hr.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
-calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10112,7 +10110,6 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
-facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10203,7 +10200,6 @@ loadbalancer.genetec.com
 log.genetec.com
 login.genetec.com
 logs.genetec.com
-lyncdiscover.genetec.com
 lyncedge.genetec.com
 m.genetec.com
 mail.genetec.com
@@ -10214,7 +10210,6 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10225,7 +10220,6 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
-msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10286,7 +10280,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10340,7 +10333,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
