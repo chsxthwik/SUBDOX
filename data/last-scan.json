@@ -1,7 +1,7 @@
 {
- "run_at": "2026-10-17 04:43 UTC",
- "subdomains_tracked": 10431,
- "cname_hosts": 44,
+ "run_at": "2026-10-17 10:56 UTC",
+ "subdomains_tracked": 10432,
+ "cname_hosts": 45,
  "findings": [
   {
    "subdomain": "lyncdiscover.genetec.com",
