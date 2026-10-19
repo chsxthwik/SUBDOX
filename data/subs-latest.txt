@@ -1,4 +1,4 @@
-60.genetec.com
+5d0d.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -9906,7 +9906,6 @@ booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10063,7 +10062,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10197,6 +10195,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10242,7 +10241,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10339,7 +10337,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
