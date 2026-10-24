@@ -7969,6 +7969,7 @@ bamboo-westeurope.genetec.com
 bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo.genetec.com
+bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -10063,7 +10064,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10245,7 +10245,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10288,7 +10287,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10342,6 +10340,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10394,6 +10393,7 @@ testapp.login.genetec.com
 testing.genetec.com
 ticket.genetec.com
 tickets.genetec.com
+time1.genetec.com
 tip.genetec.com
 tipstaging.genetec.com
 tipsts-maint.genetec.com
