@@ -10038,6 +10038,7 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10058,7 +10059,6 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
-crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
@@ -10211,12 +10211,12 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
 meetings.genetec.com
 metrics.genetec.com
+migracao.genetec.com
 mktg-videos-test.genetec.com
 mobile.genetec.com
 mobilehelp.genetec.com
@@ -10423,6 +10423,7 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
+www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
