@@ -1898,7 +1898,6 @@ affiliate-westus.genetec.com
 affiliate-www.genetec.com
 affiliate-www3.genetec.com
 affiliate.genetec.com
-aide4webmaster.genetec.com
 airbyte-account.genetec.com
 airbyte-accounts.genetec.com
 airbyte-admin-api.genetec.com
@@ -7996,7 +7995,6 @@ bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -9968,7 +9966,6 @@ booking-westus.genetec.com
 booking-www.genetec.com
 booking-www3.genetec.com
 booking.genetec.com
-boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10064,6 +10061,7 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
+cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10082,7 +10080,6 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
-distribution.genetec.com
 dmt.genetec.com
 dns.genetec.com
 docker.genetec.com
@@ -10198,7 +10195,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10215,13 +10211,11 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
 meetings.genetec.com
 metrics.genetec.com
-migracao.genetec.com
 mktg-videos-test.genetec.com
 mobile.genetec.com
 mobilehelp.genetec.com
@@ -10287,7 +10281,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10341,7 +10334,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10430,7 +10422,6 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
-www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
