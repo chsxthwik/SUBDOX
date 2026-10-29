@@ -9936,6 +9936,7 @@ booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www.genetec.com
 booking.genetec.com
+boss.genetec.com
 bounces-account.genetec.com
 bounces-accounts.genetec.com
 bounces-admin-api.genetec.com
@@ -10037,7 +10038,6 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
-chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
