@@ -1,4 +1,4 @@
-60.genetec.com
+6.genetec.com
 account-add-ons-elasticsearch.genetec.com
 account-add-ons-server.genetec.com
 account-add-ons.genetec.com
@@ -10034,6 +10034,7 @@ bounces-hr.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
+calculator.genetec.com
 campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
@@ -10079,6 +10080,7 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
+distribution.genetec.com
 dmt.genetec.com
 dns.genetec.com
 docker.genetec.com
@@ -10110,6 +10112,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10215,6 +10218,7 @@ meetings-b.genetec.com
 meetings-test.genetec.com
 meetings.genetec.com
 metrics.genetec.com
+migracao.genetec.com
 mktg-videos-test.genetec.com
 mobile.genetec.com
 mobilehelp.genetec.com
@@ -10333,6 +10337,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10385,6 +10390,8 @@ testapp.login.genetec.com
 testing.genetec.com
 ticket.genetec.com
 tickets.genetec.com
+time.genetec.com
+time1.genetec.com
 tip.genetec.com
 tipstaging.genetec.com
 tipsts-maint.genetec.com
