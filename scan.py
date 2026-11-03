@@ -79,10 +79,11 @@ def refresh_fingerprints():
     """Pull the latest fingerprint DB; fall back to the committed snapshot."""
     try:
         r = requests.get(FP_URL, timeout=20, headers={"User-Agent": UA})
-        data = r.json()
-        if r.ok and isinstance(data, list) and len(data) >= 40:
+        data = r.json() if r.ok else None
+        if isinstance(data, list) and len(data) >= 40:
             with open(FP_PATH, "w") as f:
                 json.dump(data, f, indent=1)
+                f.write("\n")
             return data, "upstream"
     except Exception:
         pass
@@ -220,12 +221,20 @@ def parse_dnsx(path):
     return cname_map, a_map, True
 
 
-def discover_cnames(hosts):
-    """Fallback path: resolve CNAMEs ourselves when dnsx output is missing."""
+NAMESERVERS = ["1.1.1.1", "8.8.8.8", "9.9.9.9"]
+
+
+def make_resolver():
     resolver = dns.resolver.Resolver(configure=False)
-    resolver.nameservers = ["1.1.1.1", "8.8.8.8", "9.9.9.9"]
+    resolver.nameservers = list(NAMESERVERS)
     resolver.timeout = 4
     resolver.lifetime = 6
+    return resolver
+
+
+def discover_cnames(hosts):
+    """Fallback path: resolve CNAMEs ourselves when dnsx output is missing."""
+    resolver = make_resolver()
     cname_map = {}
 
     def probe(host):
@@ -244,10 +253,7 @@ def discover_cnames(hosts):
 
 def target_state(target):
     """Returns (dangling, ips): dangling is True/False/None (unknown)."""
-    resolver = dns.resolver.Resolver(configure=False)
-    resolver.nameservers = ["1.1.1.1", "8.8.8.8", "9.9.9.9"]
-    resolver.timeout = 4
-    resolver.lifetime = 6
+    resolver = make_resolver()
     for rtype in ("A", "AAAA"):
         try:
             ans = resolver.resolve(target, rtype)
@@ -257,6 +263,13 @@ def target_state(target):
         except Exception:
             return None, []
     return True, []
+
+
+def resolve_targets(cname_map):
+    """Resolve every distinct CNAME target once, in parallel."""
+    targets = sorted({t for ts in cname_map.values() for t in ts})
+    with cf.ThreadPoolExecutor(DNS_WORKERS) as pool:
+        return dict(zip(targets, pool.map(target_state, targets)))
 
 
 # --------------------------------------------------------------------------
@@ -401,12 +414,13 @@ def main():
             all_hosts = [l.strip().lower() for l in f if l.strip()]
     new_subs = track_subs(db, all_hosts, now)
 
+    states = resolve_targets(cname_map)
     findings = []
     for host, targets in cname_map.items():
         ips = set(a_map.get(host, []))
-        dangling, _tip = None, None
+        dangling = None
         for target in targets:
-            dangling, tip = target_state(target)
+            dangling, _ips = states[target]
             if dangling is not None:
                 break
         cname_str = " -> ".join(targets)

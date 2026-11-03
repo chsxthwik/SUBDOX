@@ -113,7 +113,7 @@ done <<< "$DOMAINS"
 echo "[enum] brute-force hits: $(wc -l < "$WORK/brute_alive.txt" 2>/dev/null || echo 0)"
 
 # ---- 6. permutations --------------------------------------------------------
-python3 scripts/perms.py "$WORK/subs_norm.txt" "$PERM_CAP" > "$WORK/perms.txt" 2>/dev/null
+python3 scripts/perms.py "$WORK/subs_norm.txt" "$PERM_CAP" domains.txt > "$WORK/perms.txt" 2>/dev/null
 echo "[enum] permutations: $(wc -l < "$WORK/perms.txt" 2>/dev/null || echo 0)"
 
 # ---- 7. merge everything ----------------------------------------------------
