@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270" role="img" aria-label="Output of python3 scan.py">
+  <rect width="860" height="270" rx="10" fill="#0d1117"/>
+  <rect width="860" height="32" rx="10" fill="#161b22"/>
+  <circle cx="20" cy="16" r="6" fill="#f87171"/><circle cx="40" cy="16" r="6" fill="#fbbf24"/><circle cx="60" cy="16" r="6" fill="#34d399"/>
+  <g font-family="Consolas, Menlo, monospace" font-size="14" fill="#c9d1d9">
+    <text x="20" y="58" fill="#7ee787">$ python3 scan.py</text>
+    <text x="20" y="80">[*] fingerprints: 50 active entries (upstream)</text>
+    <text x="20" y="100">[*] hosts with CNAME records: 46</text>
+    <text x="20" y="120">[*] HTTP checks: 46 hosts</text>
+    <text x="20" y="140" fill="#d29922">[!] alert not sent for lyncdiscover.genetec.com: no TELEGRAM_TOKEN / TELEGRAM_CHAT_ID configured</text>
+    <text x="20" y="168">SUBDOX run 2026-11-03 11:52 UTC</text>
+    <text x="20" y="188">  subdomains tracked : 10431</text>
+    <text x="20" y="208">  cname hosts        : 46</text>
+    <text x="20" y="228">  findings           : 2</text>
+    <text x="20" y="248" fill="#7ee787">[*] done</text>
+  </g>
+</svg>

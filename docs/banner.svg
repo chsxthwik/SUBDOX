@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="SUBDOX: subdomain takeover monitor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#14213d"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <g stroke="#22d3ee" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M840 150 H900 M900 150 V90 H980 M900 150 V210 H980 M980 90 H1040 M980 210 H1040 M1040 90 V60 H1100 M1040 90 V120 H1100"/>
+  </g>
+  <g fill="#0b1020" stroke="#22d3ee" stroke-width="2">
+    <circle cx="840" cy="150" r="9"/><circle cx="900" cy="150" r="7"/>
+    <circle cx="980" cy="90" r="7"/><circle cx="980" cy="210" r="7"/>
+    <circle cx="1100" cy="60" r="6"/><circle cx="1100" cy="120" r="6"/>
+  </g>
+  <circle cx="1040" cy="210" r="9" fill="#f87171" stroke="#f87171"/>
+  <text x="1056" y="236" font-family="monospace" font-size="14" fill="#f87171">dangling</text>
+  <text x="60" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="url(#ac)">SUBDOX</text>
+  <text x="62" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#e2e8f0">Subdomain takeover monitor on GitHub Actions</text>
+  <text x="62" y="232" font-family="monospace" font-size="18" fill="#94a3b8">subfinder + crt.sh + gau + dnsx  ·  fingerprint-verified  ·  Telegram alerts</text>
+</svg>
