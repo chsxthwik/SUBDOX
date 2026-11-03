@@ -31,14 +31,14 @@ if [ -z "$DOMAINS" ]; then
 fi
 echo "[enum] targets: $(echo "$DOMAINS" | tr '\n' ' ')"
 
-# ---- 1. passive sources (subfinder, -all aggregates everything) -----------
+# passive sources (subfinder, -all aggregates everything)
 while IFS= read -r d; do
     [ -z "$d" ] && continue
     echo "[enum] passive: $d"
     subfinder -d "$d" -all -silent -timeout 30 >> "$WORK/raw_subs.txt" 2>/dev/null
 done <<< "$DOMAINS"
 
-# ---- 2. crt.sh fallback (best-effort) --------------------------------------
+# crt.sh fallback (best-effort)
 while IFS= read -r d; do
     [ -z "$d" ] && continue
     echo "[enum] crt.sh: $d"
@@ -58,7 +58,7 @@ for row in rows:
 ' "$d" >> "$WORK/raw_subs.txt"
 done <<< "$DOMAINS"
 
-# ---- 3. archive / wayback (gau) --------------------------------------------
+# archive / wayback (gau)
 while IFS= read -r d; do
     [ -z "$d" ] && continue
     echo "[enum] archive: $d"
@@ -70,7 +70,7 @@ while IFS= read -r d; do
         | grep -Ei "(^|\.)${d//./\\.}$" >> "$WORK/raw_subs.txt"
 done <<< "$DOMAINS"
 
-# ---- 4. normalize + dedupe --------------------------------------------------
+# normalize + dedupe
 python3 - "$WORK/raw_subs.txt" domains.txt > "$WORK/subs_norm.txt" <<'PY'
 import re, sys
 
@@ -95,7 +95,7 @@ for h in sorted(seen):
 PY
 echo "[enum] normalized candidates: $(wc -l < "$WORK/subs_norm.txt")"
 
-# ---- 5. brute force (dnsx A-resolution) -------------------------------------
+# brute force (dnsx A-resolution)
 # puredns/massdns was dropped: massdns ships no release binaries and puredns
 # fails silently without it. dnsx handles the volume fine, and wildcard noise
 # is harmless downstream - only CNAME-bearing names can trigger findings.
@@ -112,16 +112,16 @@ while IFS= read -r d; do
 done <<< "$DOMAINS"
 echo "[enum] brute-force hits: $(wc -l < "$WORK/brute_alive.txt" 2>/dev/null || echo 0)"
 
-# ---- 6. permutations --------------------------------------------------------
+# permutations
 python3 scripts/perms.py "$WORK/subs_norm.txt" "$PERM_CAP" domains.txt > "$WORK/perms.txt" 2>/dev/null
 echo "[enum] permutations: $(wc -l < "$WORK/perms.txt" 2>/dev/null || echo 0)"
 
-# ---- 7. merge everything ----------------------------------------------------
+# merge everything
 sort -u "$WORK/subs_norm.txt" "$WORK/brute_alive.txt" "$WORK/perms.txt" 2>/dev/null \
     | grep -v '^$' > data/subs-latest.txt
 echo "[enum] total candidate universe: $(wc -l < data/subs-latest.txt)"
 
-# ---- 8. CNAME capture over the full universe --------------------------------
+# CNAME capture over the full universe
 # dnsx (NOT puredns/massdns A-resolution) because a dangling CNAME often has
 # no A record at all - A-only resolvers would silently drop takeover targets.
 # A hard 15-min ceiling keeps the whole job well under the 35-min workflow

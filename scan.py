@@ -71,10 +71,6 @@ def utcnow():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 
-# --------------------------------------------------------------------------
-# fingerprints
-# --------------------------------------------------------------------------
-
 def refresh_fingerprints():
     """Pull the latest fingerprint DB; fall back to the committed snapshot."""
     try:
@@ -148,10 +144,6 @@ def cname_suffix_match(entries, targets, ips):
     return False
 
 
-# --------------------------------------------------------------------------
-# state
-# --------------------------------------------------------------------------
-
 def open_db():
     os.makedirs(DATA_DIR, exist_ok=True)
     db = sqlite3.connect(DB_PATH)
@@ -186,10 +178,6 @@ def track_subs(db, hosts, now):
     )
     return fresh
 
-
-# --------------------------------------------------------------------------
-# input parsing
-# --------------------------------------------------------------------------
 
 DNSX_LINE = re.compile(r"^(\S+?)\.?\s+\[(CNAME|A|AAAA)\]\s+(.+)$")
 ANSI = re.compile(r"\x1b\[[0-9;]*m")
@@ -272,10 +260,6 @@ def resolve_targets(cname_map):
         return dict(zip(targets, pool.map(target_state, targets)))
 
 
-# --------------------------------------------------------------------------
-# HTTP checks
-# --------------------------------------------------------------------------
-
 _session = requests.Session()
 
 
@@ -294,10 +278,6 @@ def http_check(host):
             continue
     return None
 
-
-# --------------------------------------------------------------------------
-# alerts
-# --------------------------------------------------------------------------
 
 def telegram_send(text):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
@@ -348,10 +328,6 @@ def format_finding(f, seen):
     lines.append(f"First seen: {seen}")
     return "\n".join(lines)
 
-
-# --------------------------------------------------------------------------
-# main
-# --------------------------------------------------------------------------
 
 def main():
     now = utcnow()
