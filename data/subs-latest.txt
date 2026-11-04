@@ -186,7 +186,6 @@ account-updateservice-stage.genetec.com
 account-updateservice-systest.genetec.com
 account-updateservice-uat.genetec.com
 account-updateservice.genetec.com
-account-url9728.genetec.com
 account-us-meetings.genetec.com
 account-us.genetec.com
 account-vpnmtl.genetec.com
@@ -386,7 +385,6 @@ accounts-updateservice-stage.genetec.com
 accounts-updateservice-systest.genetec.com
 accounts-updateservice-uat.genetec.com
 accounts-updateservice.genetec.com
-accounts-url9728.genetec.com
 accounts-us-meetings.genetec.com
 accounts-us.genetec.com
 accounts-vpnmtl.genetec.com
@@ -1295,7 +1293,6 @@ admin-api-updateservice-stage.genetec.com
 admin-api-updateservice-systest.genetec.com
 admin-api-updateservice-uat.genetec.com
 admin-api-updateservice.genetec.com
-admin-api-url9728.genetec.com
 admin-api-us-meetings.genetec.com
 admin-api-us.genetec.com
 admin-api-vpnmtl.genetec.com
@@ -1491,7 +1488,6 @@ admin-updateservice-stage.genetec.com
 admin-updateservice-systest.genetec.com
 admin-updateservice-uat.genetec.com
 admin-updateservice.genetec.com
-admin-url9728.genetec.com
 admin-us-meetings.genetec.com
 admin-us.genetec.com
 admin-vpnmtl.genetec.com
@@ -1691,7 +1687,6 @@ administrator-updateservice-stage.genetec.com
 administrator-updateservice-systest.genetec.com
 administrator-updateservice-uat.genetec.com
 administrator-updateservice.genetec.com
-administrator-url9728.genetec.com
 administrator-us-meetings.genetec.com
 administrator-us.genetec.com
 administrator-vpnmtl.genetec.com
@@ -1891,7 +1886,6 @@ affiliate-updateservice-stage.genetec.com
 affiliate-updateservice-systest.genetec.com
 affiliate-updateservice-uat.genetec.com
 affiliate-updateservice.genetec.com
-affiliate-url9728.genetec.com
 affiliate-us-meetings.genetec.com
 affiliate-us.genetec.com
 affiliate-vpnmtl.genetec.com
@@ -2326,7 +2320,6 @@ akamai-updateservice-stage.genetec.com
 akamai-updateservice-systest.genetec.com
 akamai-updateservice-uat.genetec.com
 akamai-updateservice.genetec.com
-akamai-url9728.genetec.com
 akamai-us-meetings.genetec.com
 akamai-us.genetec.com
 akamai-vpnmtl.genetec.com
@@ -2526,7 +2519,6 @@ alpha-updateservice-stage.genetec.com
 alpha-updateservice-systest.genetec.com
 alpha-updateservice-uat.genetec.com
 alpha-updateservice.genetec.com
-alpha-url9728.genetec.com
 alpha-us-meetings.genetec.com
 alpha-us.genetec.com
 alpha-vpnmtl.genetec.com
@@ -2726,7 +2718,6 @@ apache-updateservice-stage.genetec.com
 apache-updateservice-systest.genetec.com
 apache-updateservice-uat.genetec.com
 apache-updateservice.genetec.com
-apache-url9728.genetec.com
 apache-us-meetings.genetec.com
 apache-us.genetec.com
 apache-vpnmtl.genetec.com
@@ -2929,7 +2920,6 @@ api-admin-updateservice-stage.genetec.com
 api-admin-updateservice-systest.genetec.com
 api-admin-updateservice-uat.genetec.com
 api-admin-updateservice.genetec.com
-api-admin-url9728.genetec.com
 api-admin-us-meetings.genetec.com
 api-admin-us.genetec.com
 api-admin-vpnmtl.genetec.com
@@ -3208,7 +3198,6 @@ api-internal-updateservice-stage.genetec.com
 api-internal-updateservice-systest.genetec.com
 api-internal-updateservice-uat.genetec.com
 api-internal-updateservice.genetec.com
-api-internal-url9728.genetec.com
 api-internal-us-meetings.genetec.com
 api-internal-us.genetec.com
 api-internal-vpnmtl.genetec.com
@@ -3326,7 +3315,6 @@ api-updateservice-stage.genetec.com
 api-updateservice-systest.genetec.com
 api-updateservice-uat.genetec.com
 api-updateservice.genetec.com
-api-url9728.genetec.com
 api-us-meetings.genetec.com
 api-us.genetec.com
 api-vpnmtl.genetec.com
@@ -3526,7 +3514,6 @@ app-updateservice-stage.genetec.com
 app-updateservice-systest.genetec.com
 app-updateservice-uat.genetec.com
 app-updateservice.genetec.com
-app-url9728.genetec.com
 app-us-meetings.genetec.com
 app-us.genetec.com
 app-vpnmtl.genetec.com
@@ -3961,7 +3948,6 @@ apps-updateservice-stage.genetec.com
 apps-updateservice-systest.genetec.com
 apps-updateservice-uat.genetec.com
 apps-updateservice.genetec.com
-apps-url9728.genetec.com
 apps-us-meetings.genetec.com
 apps-us.genetec.com
 apps-vpnmtl.genetec.com
@@ -4396,7 +4382,6 @@ archive-updateservice-stage.genetec.com
 archive-updateservice-systest.genetec.com
 archive-updateservice-uat.genetec.com
 archive-updateservice.genetec.com
-archive-url9728.genetec.com
 archive-us-meetings.genetec.com
 archive-us.genetec.com
 archive-vpnmtl.genetec.com
@@ -4596,7 +4581,6 @@ artifactory-updateservice-stage.genetec.com
 artifactory-updateservice-systest.genetec.com
 artifactory-updateservice-uat.genetec.com
 artifactory-updateservice.genetec.com
-artifactory-url9728.genetec.com
 artifactory-us-meetings.genetec.com
 artifactory-us.genetec.com
 artifactory-vpnmtl.genetec.com
@@ -5031,7 +5015,6 @@ assets-updateservice-stage.genetec.com
 assets-updateservice-systest.genetec.com
 assets-updateservice-uat.genetec.com
 assets-updateservice.genetec.com
-assets-url9728.genetec.com
 assets-us-meetings.genetec.com
 assets-us.genetec.com
 assets-vpnmtl.genetec.com
@@ -5232,7 +5215,6 @@ audit-updateservice-stage.genetec.com
 audit-updateservice-systest.genetec.com
 audit-updateservice-uat.genetec.com
 audit-updateservice.genetec.com
-audit-url9728.genetec.com
 audit-us-meetings.genetec.com
 audit-us.genetec.com
 audit-vpnmtl.genetec.com
@@ -5432,7 +5414,6 @@ auth-updateservice-stage.genetec.com
 auth-updateservice-systest.genetec.com
 auth-updateservice-uat.genetec.com
 auth-updateservice.genetec.com
-auth-url9728.genetec.com
 auth-us-meetings.genetec.com
 auth-us.genetec.com
 auth-vpnmtl.genetec.com
@@ -6103,7 +6084,6 @@ aws-updateservice-stage.genetec.com
 aws-updateservice-systest.genetec.com
 aws-updateservice-uat.genetec.com
 aws-updateservice.genetec.com
-aws-url9728.genetec.com
 aws-us-meetings.genetec.com
 aws-us.genetec.com
 aws-vpnmtl.genetec.com
@@ -7008,7 +6988,6 @@ azure-updateservice-stage.genetec.com
 azure-updateservice-systest.genetec.com
 azure-updateservice-uat.genetec.com
 azure-updateservice.genetec.com
-azure-url9728.genetec.com
 azure-us-meetings.genetec.com
 azure-us.genetec.com
 azure-vpnmtl.genetec.com
@@ -7208,7 +7187,6 @@ b2b-updateservice-stage.genetec.com
 b2b-updateservice-systest.genetec.com
 b2b-updateservice-uat.genetec.com
 b2b-updateservice.genetec.com
-b2b-url9728.genetec.com
 b2b-us-meetings.genetec.com
 b2b-us.genetec.com
 b2b-vpnmtl.genetec.com
@@ -7408,7 +7386,6 @@ b2c-updateservice-stage.genetec.com
 b2c-updateservice-systest.genetec.com
 b2c-updateservice-uat.genetec.com
 b2c-updateservice.genetec.com
-b2c-url9728.genetec.com
 b2c-us-meetings.genetec.com
 b2c-us.genetec.com
 b2c-vpnmtl.genetec.com
@@ -7608,7 +7585,6 @@ backup-updateservice-stage.genetec.com
 backup-updateservice-systest.genetec.com
 backup-updateservice-uat.genetec.com
 backup-updateservice.genetec.com
-backup-url9728.genetec.com
 backup-us-meetings.genetec.com
 backup-us.genetec.com
 backup-vpnmtl.genetec.com
@@ -7808,7 +7784,6 @@ bak-updateservice-stage.genetec.com
 bak-updateservice-systest.genetec.com
 bak-updateservice-uat.genetec.com
 bak-updateservice.genetec.com
-bak-url9728.genetec.com
 bak-us-meetings.genetec.com
 bak-us.genetec.com
 bak-vpnmtl.genetec.com
@@ -8008,7 +7983,6 @@ bamboo-updateservice-stage.genetec.com
 bamboo-updateservice-systest.genetec.com
 bamboo-updateservice-uat.genetec.com
 bamboo-updateservice.genetec.com
-bamboo-url9728.genetec.com
 bamboo-us-meetings.genetec.com
 bamboo-us.genetec.com
 bamboo-vpnmtl.genetec.com
@@ -8021,7 +7995,6 @@ bamboo-westus.genetec.com
 bamboo-www.genetec.com
 bamboo-www3.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -8209,7 +8182,6 @@ beta-updateservice-stage.genetec.com
 beta-updateservice-systest.genetec.com
 beta-updateservice-uat.genetec.com
 beta-updateservice.genetec.com
-beta-url9728.genetec.com
 beta-us-meetings.genetec.com
 beta-us.genetec.com
 beta-vpnmtl.genetec.com
@@ -8409,7 +8381,6 @@ beta2-updateservice-stage.genetec.com
 beta2-updateservice-systest.genetec.com
 beta2-updateservice-uat.genetec.com
 beta2-updateservice.genetec.com
-beta2-url9728.genetec.com
 beta2-us-meetings.genetec.com
 beta2-us.genetec.com
 beta2-vpnmtl.genetec.com
@@ -8844,7 +8815,6 @@ billing-updateservice-stage.genetec.com
 billing-updateservice-systest.genetec.com
 billing-updateservice-uat.genetec.com
 billing-updateservice.genetec.com
-billing-url9728.genetec.com
 billing-us-meetings.genetec.com
 billing-us.genetec.com
 billing-vpnmtl.genetec.com
@@ -9984,7 +9954,6 @@ booking-updateservice-stage.genetec.com
 booking-updateservice-systest.genetec.com
 booking-updateservice-uat.genetec.com
 booking-updateservice.genetec.com
-booking-url9728.genetec.com
 booking-us-meetings.genetec.com
 booking-us.genetec.com
 booking-vpnmtl.genetec.com
@@ -10032,6 +10001,36 @@ bounces-build.genetec.com
 bounces-cache.genetec.com
 bounces-cd.genetec.com
 bounces-cdn.genetec.com
+bounces-checkout.genetec.com
+bounces-ci.genetec.com
+bounces-cloud.genetec.com
+bounces-cloudflare.genetec.com
+bounces-cloudfront.genetec.com
+bounces-cms.genetec.com
+bounces-compliance.genetec.com
+bounces-confluence.genetec.com
+bounces-console.genetec.com
+bounces-content.genetec.com
+bounces-corp.genetec.com
+bounces-corporate.genetec.com
+bounces-crm.genetec.com
+bounces-dashboard.genetec.com
+bounces-data.genetec.com
+bounces-database.genetec.com
+bounces-db.genetec.com
+bounces-demo.genetec.com
+bounces-deploy.genetec.com
+bounces-dev.genetec.com
+bounces-dev1.genetec.com
+bounces-dev2.genetec.com
+bounces-dns.genetec.com
+bounces-docker.genetec.com
+bounces-docs.genetec.com
+bounces-documentation.genetec.com
+bounces-download.genetec.com
+bounces-downloads.genetec.com
+bounces-drone.genetec.com
+bounces-edge.genetec.com
 bounces.genetec.com
 build.genetec.com
 cache.genetec.com
@@ -10066,6 +10065,7 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
+cyborg.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10117,6 +10117,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10201,7 +10202,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10249,7 +10249,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10358,6 +10357,7 @@ site.genetec.com
 sites.genetec.com
 smtp.genetec.com
 sonar.genetec.com
+sophia.genetec.com
 sql.genetec.com
 ssh.genetec.com
 sso.genetec.com
@@ -10414,7 +10414,6 @@ updateservice-stage.genetec.com
 updateservice-systest.genetec.com
 updateservice-uat.genetec.com
 updateservice.genetec.com
-url9728.genetec.com
 us-meetings.genetec.com
 us.login.genetec.com
 user.genetec.com
@@ -10435,6 +10434,7 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
+www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
