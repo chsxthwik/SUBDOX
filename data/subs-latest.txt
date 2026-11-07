@@ -174,6 +174,7 @@ account-synergis-cloudlink-help.genetec.com
 account-systemreportservices.genetec.com
 account-systemreportservicesstaging.genetec.com
 account-techdocs.genetec.com
+account-techpartners.genetec.com
 account-testapp.genetec.com
 account-tip.genetec.com
 account-tipstaging.genetec.com
@@ -195,7 +196,6 @@ account-webconf.genetec.com
 account-westeurope.genetec.com
 account-westus.genetec.com
 account-www.genetec.com
-account-www3.genetec.com
 account.genetec.com
 accounts-add-ons-elasticsearch.genetec.com
 accounts-add-ons-server.genetec.com
@@ -372,6 +372,7 @@ accounts-synergis-cloudlink-help.genetec.com
 accounts-systemreportservices.genetec.com
 accounts-systemreportservicesstaging.genetec.com
 accounts-techdocs.genetec.com
+accounts-techpartners.genetec.com
 accounts-testapp.genetec.com
 accounts-tip.genetec.com
 accounts-tipstaging.genetec.com
@@ -393,7 +394,6 @@ accounts-webconf.genetec.com
 accounts-westeurope.genetec.com
 accounts-westus.genetec.com
 accounts-www.genetec.com
-accounts-www3.genetec.com
 accounts.genetec.com
 add-ons-account.genetec.com
 add-ons-accounts.genetec.com
@@ -1279,6 +1279,7 @@ admin-api-synergis-cloudlink-help.genetec.com
 admin-api-systemreportservices.genetec.com
 admin-api-systemreportservicesstaging.genetec.com
 admin-api-techdocs.genetec.com
+admin-api-techpartners.genetec.com
 admin-api-testapp.genetec.com
 admin-api-tip.genetec.com
 admin-api-tipstaging.genetec.com
@@ -1300,7 +1301,6 @@ admin-api-webconf.genetec.com
 admin-api-westeurope.genetec.com
 admin-api-westus.genetec.com
 admin-api-www.genetec.com
-admin-api-www3.genetec.com
 admin-api.genetec.com
 admin-appointments.genetec.com
 admin-architecture.genetec.com
@@ -1473,6 +1473,7 @@ admin-synergis-cloudlink-help.genetec.com
 admin-systemreportservices.genetec.com
 admin-systemreportservicesstaging.genetec.com
 admin-techdocs.genetec.com
+admin-techpartners.genetec.com
 admin-testapp.genetec.com
 admin-tip.genetec.com
 admin-tipstaging.genetec.com
@@ -1494,7 +1495,6 @@ admin-webconf.genetec.com
 admin-westeurope.genetec.com
 admin-westus.genetec.com
 admin-www.genetec.com
-admin-www3.genetec.com
 admin.genetec.com
 administrator-add-ons-elasticsearch.genetec.com
 administrator-add-ons-server.genetec.com
@@ -1671,6 +1671,7 @@ administrator-synergis-cloudlink-help.genetec.com
 administrator-systemreportservices.genetec.com
 administrator-systemreportservicesstaging.genetec.com
 administrator-techdocs.genetec.com
+administrator-techpartners.genetec.com
 administrator-testapp.genetec.com
 administrator-tip.genetec.com
 administrator-tipstaging.genetec.com
@@ -1692,7 +1693,6 @@ administrator-webconf.genetec.com
 administrator-westeurope.genetec.com
 administrator-westus.genetec.com
 administrator-www.genetec.com
-administrator-www3.genetec.com
 administrator.genetec.com
 affiliate-add-ons-elasticsearch.genetec.com
 affiliate-add-ons-server.genetec.com
@@ -1869,6 +1869,7 @@ affiliate-synergis-cloudlink-help.genetec.com
 affiliate-systemreportservices.genetec.com
 affiliate-systemreportservicesstaging.genetec.com
 affiliate-techdocs.genetec.com
+affiliate-techpartners.genetec.com
 affiliate-testapp.genetec.com
 affiliate-tip.genetec.com
 affiliate-tipstaging.genetec.com
@@ -1890,7 +1891,6 @@ affiliate-webconf.genetec.com
 affiliate-westeurope.genetec.com
 affiliate-westus.genetec.com
 affiliate-www.genetec.com
-affiliate-www3.genetec.com
 affiliate.genetec.com
 airbyte-account.genetec.com
 airbyte-accounts.genetec.com
@@ -2302,6 +2302,7 @@ akamai-synergis-cloudlink-help.genetec.com
 akamai-systemreportservices.genetec.com
 akamai-systemreportservicesstaging.genetec.com
 akamai-techdocs.genetec.com
+akamai-techpartners.genetec.com
 akamai-testapp.genetec.com
 akamai-tip.genetec.com
 akamai-tipstaging.genetec.com
@@ -2323,7 +2324,6 @@ akamai-webconf.genetec.com
 akamai-westeurope.genetec.com
 akamai-westus.genetec.com
 akamai-www.genetec.com
-akamai-www3.genetec.com
 akamai.genetec.com
 alpha-add-ons-elasticsearch.genetec.com
 alpha-add-ons-server.genetec.com
@@ -2500,6 +2500,7 @@ alpha-synergis-cloudlink-help.genetec.com
 alpha-systemreportservices.genetec.com
 alpha-systemreportservicesstaging.genetec.com
 alpha-techdocs.genetec.com
+alpha-techpartners.genetec.com
 alpha-testapp.genetec.com
 alpha-tip.genetec.com
 alpha-tipstaging.genetec.com
@@ -2521,7 +2522,6 @@ alpha-webconf.genetec.com
 alpha-westeurope.genetec.com
 alpha-westus.genetec.com
 alpha-www.genetec.com
-alpha-www3.genetec.com
 alpha.genetec.com
 apache-add-ons-elasticsearch.genetec.com
 apache-add-ons-server.genetec.com
@@ -2698,6 +2698,7 @@ apache-synergis-cloudlink-help.genetec.com
 apache-systemreportservices.genetec.com
 apache-systemreportservicesstaging.genetec.com
 apache-techdocs.genetec.com
+apache-techpartners.genetec.com
 apache-testapp.genetec.com
 apache-tip.genetec.com
 apache-tipstaging.genetec.com
@@ -2719,7 +2720,6 @@ apache-webconf.genetec.com
 apache-westeurope.genetec.com
 apache-westus.genetec.com
 apache-www.genetec.com
-apache-www3.genetec.com
 apache.genetec.com
 api-add-ons-elasticsearch.genetec.com
 api-add-ons-server.genetec.com
@@ -2899,6 +2899,7 @@ api-admin-synergis-cloudlink-help.genetec.com
 api-admin-systemreportservices.genetec.com
 api-admin-systemreportservicesstaging.genetec.com
 api-admin-techdocs.genetec.com
+api-admin-techpartners.genetec.com
 api-admin-testapp.genetec.com
 api-admin-tip.genetec.com
 api-admin-tipstaging.genetec.com
@@ -2920,7 +2921,6 @@ api-admin-webconf.genetec.com
 api-admin-westeurope.genetec.com
 api-admin-westus.genetec.com
 api-admin-www.genetec.com
-api-admin-www3.genetec.com
 api-admin.genetec.com
 api-airbyte.genetec.com
 api-appointments.genetec.com
@@ -3176,6 +3176,7 @@ api-internal-synergis-cloudlink-help.genetec.com
 api-internal-systemreportservices.genetec.com
 api-internal-systemreportservicesstaging.genetec.com
 api-internal-techdocs.genetec.com
+api-internal-techpartners.genetec.com
 api-internal-testapp.genetec.com
 api-internal-tip.genetec.com
 api-internal-tipstaging.genetec.com
@@ -3197,7 +3198,6 @@ api-internal-webconf.genetec.com
 api-internal-westeurope.genetec.com
 api-internal-westus.genetec.com
 api-internal-www.genetec.com
-api-internal-www3.genetec.com
 api-internal.genetec.com
 api-is-spk01.genetec.com
 api-ithelp.genetec.com
@@ -3292,6 +3292,7 @@ api-synergis-cloudlink-help.genetec.com
 api-systemreportservices.genetec.com
 api-systemreportservicesstaging.genetec.com
 api-techdocs.genetec.com
+api-techpartners.genetec.com
 api-testapp.genetec.com
 api-tip.genetec.com
 api-tipstaging.genetec.com
@@ -3313,7 +3314,6 @@ api-webconf.genetec.com
 api-westeurope.genetec.com
 api-westus.genetec.com
 api-www.genetec.com
-api-www3.genetec.com
 api.genetec.com
 app-add-ons-elasticsearch.genetec.com
 app-add-ons-server.genetec.com
@@ -3490,6 +3490,7 @@ app-synergis-cloudlink-help.genetec.com
 app-systemreportservices.genetec.com
 app-systemreportservicesstaging.genetec.com
 app-techdocs.genetec.com
+app-techpartners.genetec.com
 app-testapp.genetec.com
 app-tip.genetec.com
 app-tipstaging.genetec.com
@@ -3511,7 +3512,6 @@ app-webconf.genetec.com
 app-westeurope.genetec.com
 app-westus.genetec.com
 app-www.genetec.com
-app-www3.genetec.com
 app.genetec.com
 appointments-account.genetec.com
 appointments-accounts.genetec.com
@@ -3923,6 +3923,7 @@ apps-synergis-cloudlink-help.genetec.com
 apps-systemreportservices.genetec.com
 apps-systemreportservicesstaging.genetec.com
 apps-techdocs.genetec.com
+apps-techpartners.genetec.com
 apps-testapp.genetec.com
 apps-tip.genetec.com
 apps-tipstaging.genetec.com
@@ -3944,7 +3945,6 @@ apps-webconf.genetec.com
 apps-westeurope.genetec.com
 apps-westus.genetec.com
 apps-www.genetec.com
-apps-www3.genetec.com
 apps.genetec.com
 architecture-account.genetec.com
 architecture-accounts.genetec.com
@@ -4356,6 +4356,7 @@ archive-synergis-cloudlink-help.genetec.com
 archive-systemreportservices.genetec.com
 archive-systemreportservicesstaging.genetec.com
 archive-techdocs.genetec.com
+archive-techpartners.genetec.com
 archive-testapp.genetec.com
 archive-tip.genetec.com
 archive-tipstaging.genetec.com
@@ -4377,7 +4378,6 @@ archive-webconf.genetec.com
 archive-westeurope.genetec.com
 archive-westus.genetec.com
 archive-www.genetec.com
-archive-www3.genetec.com
 archive.genetec.com
 artifactory-add-ons-elasticsearch.genetec.com
 artifactory-add-ons-server.genetec.com
@@ -4554,6 +4554,7 @@ artifactory-synergis-cloudlink-help.genetec.com
 artifactory-systemreportservices.genetec.com
 artifactory-systemreportservicesstaging.genetec.com
 artifactory-techdocs.genetec.com
+artifactory-techpartners.genetec.com
 artifactory-testapp.genetec.com
 artifactory-tip.genetec.com
 artifactory-tipstaging.genetec.com
@@ -4575,7 +4576,6 @@ artifactory-webconf.genetec.com
 artifactory-westeurope.genetec.com
 artifactory-westus.genetec.com
 artifactory-www.genetec.com
-artifactory-www3.genetec.com
 artifactory.genetec.com
 as2edi-account.genetec.com
 as2edi-accounts.genetec.com
@@ -4987,6 +4987,7 @@ assets-synergis-cloudlink-help.genetec.com
 assets-systemreportservices.genetec.com
 assets-systemreportservicesstaging.genetec.com
 assets-techdocs.genetec.com
+assets-techpartners.genetec.com
 assets-testapp.genetec.com
 assets-tip.genetec.com
 assets-tipstaging.genetec.com
@@ -5008,7 +5009,6 @@ assets-webconf.genetec.com
 assets-westeurope.genetec.com
 assets-westus.genetec.com
 assets-www.genetec.com
-assets-www3.genetec.com
 assets.genetec.com
 assets.login.genetec.com
 audit-add-ons-elasticsearch.genetec.com
@@ -5186,6 +5186,7 @@ audit-synergis-cloudlink-help.genetec.com
 audit-systemreportservices.genetec.com
 audit-systemreportservicesstaging.genetec.com
 audit-techdocs.genetec.com
+audit-techpartners.genetec.com
 audit-testapp.genetec.com
 audit-tip.genetec.com
 audit-tipstaging.genetec.com
@@ -5207,7 +5208,6 @@ audit-webconf.genetec.com
 audit-westeurope.genetec.com
 audit-westus.genetec.com
 audit-www.genetec.com
-audit-www3.genetec.com
 audit.genetec.com
 auth-add-ons-elasticsearch.genetec.com
 auth-add-ons-server.genetec.com
@@ -5384,6 +5384,7 @@ auth-synergis-cloudlink-help.genetec.com
 auth-systemreportservices.genetec.com
 auth-systemreportservicesstaging.genetec.com
 auth-techdocs.genetec.com
+auth-techpartners.genetec.com
 auth-testapp.genetec.com
 auth-tip.genetec.com
 auth-tipstaging.genetec.com
@@ -5405,7 +5406,6 @@ auth-webconf.genetec.com
 auth-westeurope.genetec.com
 auth-westus.genetec.com
 auth-www.genetec.com
-auth-www3.genetec.com
 auth.dev.genetec.com
 auth.genetec.com
 autodiscover-account.genetec.com
@@ -6053,6 +6053,7 @@ aws-synergis-cloudlink-help.genetec.com
 aws-systemreportservices.genetec.com
 aws-systemreportservicesstaging.genetec.com
 aws-techdocs.genetec.com
+aws-techpartners.genetec.com
 aws-testapp.genetec.com
 aws-tip.genetec.com
 aws-tipstaging.genetec.com
@@ -6074,7 +6075,6 @@ aws-webconf.genetec.com
 aws-westeurope.genetec.com
 aws-westus.genetec.com
 aws-www.genetec.com
-aws-www3.genetec.com
 aws.genetec.com
 ax-account.genetec.com
 ax-accounts.genetec.com
@@ -6956,6 +6956,7 @@ azure-synergis-cloudlink-help.genetec.com
 azure-systemreportservices.genetec.com
 azure-systemreportservicesstaging.genetec.com
 azure-techdocs.genetec.com
+azure-techpartners.genetec.com
 azure-testapp.genetec.com
 azure-tip.genetec.com
 azure-tipstaging.genetec.com
@@ -6977,7 +6978,6 @@ azure-webconf.genetec.com
 azure-westeurope.genetec.com
 azure-westus.genetec.com
 azure-www.genetec.com
-azure-www3.genetec.com
 azure.genetec.com
 b2b-add-ons-elasticsearch.genetec.com
 b2b-add-ons-server.genetec.com
@@ -7154,6 +7154,7 @@ b2b-synergis-cloudlink-help.genetec.com
 b2b-systemreportservices.genetec.com
 b2b-systemreportservicesstaging.genetec.com
 b2b-techdocs.genetec.com
+b2b-techpartners.genetec.com
 b2b-testapp.genetec.com
 b2b-tip.genetec.com
 b2b-tipstaging.genetec.com
@@ -7175,7 +7176,6 @@ b2b-webconf.genetec.com
 b2b-westeurope.genetec.com
 b2b-westus.genetec.com
 b2b-www.genetec.com
-b2b-www3.genetec.com
 b2b.genetec.com
 b2c-add-ons-elasticsearch.genetec.com
 b2c-add-ons-server.genetec.com
@@ -7352,6 +7352,7 @@ b2c-synergis-cloudlink-help.genetec.com
 b2c-systemreportservices.genetec.com
 b2c-systemreportservicesstaging.genetec.com
 b2c-techdocs.genetec.com
+b2c-techpartners.genetec.com
 b2c-testapp.genetec.com
 b2c-tip.genetec.com
 b2c-tipstaging.genetec.com
@@ -7373,7 +7374,6 @@ b2c-webconf.genetec.com
 b2c-westeurope.genetec.com
 b2c-westus.genetec.com
 b2c-www.genetec.com
-b2c-www3.genetec.com
 b2c.genetec.com
 backup-add-ons-elasticsearch.genetec.com
 backup-add-ons-server.genetec.com
@@ -7550,6 +7550,7 @@ backup-synergis-cloudlink-help.genetec.com
 backup-systemreportservices.genetec.com
 backup-systemreportservicesstaging.genetec.com
 backup-techdocs.genetec.com
+backup-techpartners.genetec.com
 backup-testapp.genetec.com
 backup-tip.genetec.com
 backup-tipstaging.genetec.com
@@ -7571,7 +7572,6 @@ backup-webconf.genetec.com
 backup-westeurope.genetec.com
 backup-westus.genetec.com
 backup-www.genetec.com
-backup-www3.genetec.com
 backup.genetec.com
 bak-add-ons-elasticsearch.genetec.com
 bak-add-ons-server.genetec.com
@@ -7748,6 +7748,7 @@ bak-synergis-cloudlink-help.genetec.com
 bak-systemreportservices.genetec.com
 bak-systemreportservicesstaging.genetec.com
 bak-techdocs.genetec.com
+bak-techpartners.genetec.com
 bak-testapp.genetec.com
 bak-tip.genetec.com
 bak-tipstaging.genetec.com
@@ -7769,7 +7770,6 @@ bak-webconf.genetec.com
 bak-westeurope.genetec.com
 bak-westus.genetec.com
 bak-www.genetec.com
-bak-www3.genetec.com
 bak.genetec.com
 bamboo-add-ons-elasticsearch.genetec.com
 bamboo-add-ons-server.genetec.com
@@ -7946,6 +7946,7 @@ bamboo-synergis-cloudlink-help.genetec.com
 bamboo-systemreportservices.genetec.com
 bamboo-systemreportservicesstaging.genetec.com
 bamboo-techdocs.genetec.com
+bamboo-techpartners.genetec.com
 bamboo-testapp.genetec.com
 bamboo-tip.genetec.com
 bamboo-tipstaging.genetec.com
@@ -7967,9 +7968,7 @@ bamboo-webconf.genetec.com
 bamboo-westeurope.genetec.com
 bamboo-westus.genetec.com
 bamboo-www.genetec.com
-bamboo-www3.genetec.com
 bamboo.genetec.com
-bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -8145,6 +8144,7 @@ beta-synergis-cloudlink-help.genetec.com
 beta-systemreportservices.genetec.com
 beta-systemreportservicesstaging.genetec.com
 beta-techdocs.genetec.com
+beta-techpartners.genetec.com
 beta-testapp.genetec.com
 beta-tip.genetec.com
 beta-tipstaging.genetec.com
@@ -8166,7 +8166,6 @@ beta-webconf.genetec.com
 beta-westeurope.genetec.com
 beta-westus.genetec.com
 beta-www.genetec.com
-beta-www3.genetec.com
 beta.genetec.com
 beta2-add-ons-elasticsearch.genetec.com
 beta2-add-ons-server.genetec.com
@@ -8343,6 +8342,7 @@ beta2-synergis-cloudlink-help.genetec.com
 beta2-systemreportservices.genetec.com
 beta2-systemreportservicesstaging.genetec.com
 beta2-techdocs.genetec.com
+beta2-techpartners.genetec.com
 beta2-testapp.genetec.com
 beta2-tip.genetec.com
 beta2-tipstaging.genetec.com
@@ -8364,7 +8364,6 @@ beta2-webconf.genetec.com
 beta2-westeurope.genetec.com
 beta2-westus.genetec.com
 beta2-www.genetec.com
-beta2-www3.genetec.com
 beta2.genetec.com
 bids-account.genetec.com
 bids-accounts.genetec.com
@@ -8776,6 +8775,7 @@ billing-synergis-cloudlink-help.genetec.com
 billing-systemreportservices.genetec.com
 billing-systemreportservicesstaging.genetec.com
 billing-techdocs.genetec.com
+billing-techpartners.genetec.com
 billing-testapp.genetec.com
 billing-tip.genetec.com
 billing-tipstaging.genetec.com
@@ -8797,7 +8797,6 @@ billing-webconf.genetec.com
 billing-westeurope.genetec.com
 billing-westus.genetec.com
 billing-www.genetec.com
-billing-www3.genetec.com
 billing.genetec.com
 blog-account.genetec.com
 blog-accounts.genetec.com
@@ -9914,6 +9913,7 @@ booking-synergis-cloudlink-help.genetec.com
 booking-systemreportservices.genetec.com
 booking-systemreportservicesstaging.genetec.com
 booking-techdocs.genetec.com
+booking-techpartners.genetec.com
 booking-testapp.genetec.com
 booking-tip.genetec.com
 booking-tipstaging.genetec.com
@@ -9935,7 +9935,6 @@ booking-webconf.genetec.com
 booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www.genetec.com
-booking-www3.genetec.com
 booking.genetec.com
 boss.genetec.com
 bounces-account.genetec.com
@@ -10040,6 +10039,7 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10060,7 +10060,6 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
-crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
@@ -10083,7 +10082,6 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
-distribution.genetec.com
 dmt.genetec.com
 dns.genetec.com
 docker.genetec.com
@@ -10116,7 +10114,6 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
-facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10201,6 +10198,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10247,7 +10245,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10344,6 +10341,7 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
+services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10388,6 +10386,7 @@ systemreportservices.genetec.com
 systemreportservicesstaging.genetec.com
 teamcity.genetec.com
 techdocs.genetec.com
+techpartners.genetec.com
 terms.genetec.com
 test.genetec.com
 test.login.genetec.com
@@ -10438,5 +10437,4 @@ www.events.genetec.com
 www.genetec.com
 www.learningcrew.genetec.com
 www2.genetec.com
-www3.genetec.com
 zendesk.genetec.com
