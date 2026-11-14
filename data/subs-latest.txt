@@ -10039,7 +10039,6 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
-chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10066,6 +10065,10 @@ crmextendedapi.genetec.com
 cs.genetec.com
 cybertech.genetec.com
 cybertesis.genetec.com
+cyberzone.genetec.com
+cyborg.genetec.com
+cycle.genetec.com
+cycling.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10117,6 +10120,7 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
+facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10401,7 +10405,6 @@ time1.genetec.com
 time2.genetec.com
 timeclock.genetec.com
 timeline.genetec.com
-timeout.genetec.com
 tip.genetec.com
 tipstaging.genetec.com
 tipsts-maint.genetec.com
@@ -10437,6 +10440,7 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
+www-dev.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
 www.dio.nonprod.genetec.com
