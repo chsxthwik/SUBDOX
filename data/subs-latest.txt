@@ -10063,9 +10063,6 @@ crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
 cs.genetec.com
-cybertech.genetec.com
-cybertesis.genetec.com
-cycle.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10202,6 +10199,7 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
+library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10396,9 +10394,6 @@ testapp.login.genetec.com
 testing.genetec.com
 ticket.genetec.com
 tickets.genetec.com
-time.genetec.com
-time1.genetec.com
-timeline.genetec.com
 tip.genetec.com
 tipstaging.genetec.com
 tipsts-maint.genetec.com
