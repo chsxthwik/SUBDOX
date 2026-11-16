@@ -10039,6 +10039,7 @@ campaigncalc.genetec.com
 canadacentral.staging.login.genetec.com
 cd.genetec.com
 cdn.genetec.com
+chat.genetec.com
 checkout.genetec.com
 ci.genetec.com
 clearpath.genetec.com
@@ -10059,6 +10060,7 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
+crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
@@ -10245,7 +10247,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10288,7 +10289,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
