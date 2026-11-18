@@ -1,6 +1,23 @@
 {
- "run_at": "2026-11-17 21:09 UTC",
- "subdomains_tracked": 10431,
+ "run_at": "2026-11-18 07:41 UTC",
+ "subdomains_tracked": 10442,
  "cname_hosts": 46,
- "findings": []
+ "findings": [
+  {
+   "subdomain": "lyncdiscover.genetec.com",
+   "service": "unknown (dangling CNAME)",
+   "severity": "info",
+   "cname": "webdir.online.lync.com",
+   "evidence": "CNAME webdir.online.lync.com -> NXDOMAIN, no fingerprint match; manual review",
+   "key": "lyncdiscover.genetec.com|dangling"
+  },
+  {
+   "subdomain": "sip.genetec.com",
+   "service": "unknown (dangling CNAME)",
+   "severity": "info",
+   "cname": "sipdir.online.lync.com",
+   "evidence": "CNAME sipdir.online.lync.com -> NXDOMAIN, no fingerprint match; manual review",
+   "key": "sip.genetec.com|dangling"
+  }
+ ]
 }
