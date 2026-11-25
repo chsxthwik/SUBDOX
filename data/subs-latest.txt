@@ -16,6 +16,7 @@ account-bloomreachsite-dev.genetec.com
 account-bloomreachsite-qa.genetec.com
 account-bloomreachsite-uat.genetec.com
 account-bounces.genetec.com
+account-brxm-preprod.genetec.com
 account-campaigncalc.genetec.com
 account-canadacentral.genetec.com
 account-clearpath.genetec.com
@@ -214,6 +215,7 @@ accounts-bloomreachsite-dev.genetec.com
 accounts-bloomreachsite-qa.genetec.com
 accounts-bloomreachsite-uat.genetec.com
 accounts-bounces.genetec.com
+accounts-brxm-preprod.genetec.com
 accounts-campaigncalc.genetec.com
 accounts-canadacentral.genetec.com
 accounts-clearpath.genetec.com
@@ -1121,6 +1123,7 @@ admin-api-bloomreachsite-dev.genetec.com
 admin-api-bloomreachsite-qa.genetec.com
 admin-api-bloomreachsite-uat.genetec.com
 admin-api-bounces.genetec.com
+admin-api-brxm-preprod.genetec.com
 admin-api-campaigncalc.genetec.com
 admin-api-canadacentral.genetec.com
 admin-api-clearpath.genetec.com
@@ -1315,6 +1318,7 @@ admin-bloomreachsite-dev.genetec.com
 admin-bloomreachsite-qa.genetec.com
 admin-bloomreachsite-uat.genetec.com
 admin-bounces.genetec.com
+admin-brxm-preprod.genetec.com
 admin-campaigncalc.genetec.com
 admin-canadacentral.genetec.com
 admin-clearpath.genetec.com
@@ -1513,6 +1517,7 @@ administrator-bloomreachsite-dev.genetec.com
 administrator-bloomreachsite-qa.genetec.com
 administrator-bloomreachsite-uat.genetec.com
 administrator-bounces.genetec.com
+administrator-brxm-preprod.genetec.com
 administrator-campaigncalc.genetec.com
 administrator-canadacentral.genetec.com
 administrator-clearpath.genetec.com
@@ -1711,6 +1716,7 @@ affiliate-bloomreachsite-dev.genetec.com
 affiliate-bloomreachsite-qa.genetec.com
 affiliate-bloomreachsite-uat.genetec.com
 affiliate-bounces.genetec.com
+affiliate-brxm-preprod.genetec.com
 affiliate-campaigncalc.genetec.com
 affiliate-canadacentral.genetec.com
 affiliate-clearpath.genetec.com
@@ -2144,6 +2150,7 @@ akamai-bloomreachsite-dev.genetec.com
 akamai-bloomreachsite-qa.genetec.com
 akamai-bloomreachsite-uat.genetec.com
 akamai-bounces.genetec.com
+akamai-brxm-preprod.genetec.com
 akamai-campaigncalc.genetec.com
 akamai-canadacentral.genetec.com
 akamai-clearpath.genetec.com
@@ -2342,6 +2349,7 @@ alpha-bloomreachsite-dev.genetec.com
 alpha-bloomreachsite-qa.genetec.com
 alpha-bloomreachsite-uat.genetec.com
 alpha-bounces.genetec.com
+alpha-brxm-preprod.genetec.com
 alpha-campaigncalc.genetec.com
 alpha-canadacentral.genetec.com
 alpha-clearpath.genetec.com
@@ -2540,6 +2548,7 @@ apache-bloomreachsite-dev.genetec.com
 apache-bloomreachsite-qa.genetec.com
 apache-bloomreachsite-uat.genetec.com
 apache-bounces.genetec.com
+apache-brxm-preprod.genetec.com
 apache-campaigncalc.genetec.com
 apache-canadacentral.genetec.com
 apache-clearpath.genetec.com
@@ -2741,6 +2750,7 @@ api-admin-bloomreachsite-dev.genetec.com
 api-admin-bloomreachsite-qa.genetec.com
 api-admin-bloomreachsite-uat.genetec.com
 api-admin-bounces.genetec.com
+api-admin-brxm-preprod.genetec.com
 api-admin-campaigncalc.genetec.com
 api-admin-canadacentral.genetec.com
 api-admin-clearpath.genetec.com
@@ -2936,6 +2946,7 @@ api-bloomreachsite-dev.genetec.com
 api-bloomreachsite-qa.genetec.com
 api-bloomreachsite-uat.genetec.com
 api-bounces.genetec.com
+api-brxm-preprod.genetec.com
 api-campaigncalc.genetec.com
 api-canadacentral.genetec.com
 api-clearpath.genetec.com
@@ -3018,6 +3029,7 @@ api-internal-bloomreachsite-dev.genetec.com
 api-internal-bloomreachsite-qa.genetec.com
 api-internal-bloomreachsite-uat.genetec.com
 api-internal-bounces.genetec.com
+api-internal-brxm-preprod.genetec.com
 api-internal-campaigncalc.genetec.com
 api-internal-canadacentral.genetec.com
 api-internal-clearpath.genetec.com
@@ -3332,6 +3344,7 @@ app-bloomreachsite-dev.genetec.com
 app-bloomreachsite-qa.genetec.com
 app-bloomreachsite-uat.genetec.com
 app-bounces.genetec.com
+app-brxm-preprod.genetec.com
 app-campaigncalc.genetec.com
 app-canadacentral.genetec.com
 app-clearpath.genetec.com
@@ -3765,6 +3778,7 @@ apps-bloomreachsite-dev.genetec.com
 apps-bloomreachsite-qa.genetec.com
 apps-bloomreachsite-uat.genetec.com
 apps-bounces.genetec.com
+apps-brxm-preprod.genetec.com
 apps-campaigncalc.genetec.com
 apps-canadacentral.genetec.com
 apps-clearpath.genetec.com
@@ -4198,6 +4212,7 @@ archive-bloomreachsite-dev.genetec.com
 archive-bloomreachsite-qa.genetec.com
 archive-bloomreachsite-uat.genetec.com
 archive-bounces.genetec.com
+archive-brxm-preprod.genetec.com
 archive-campaigncalc.genetec.com
 archive-canadacentral.genetec.com
 archive-clearpath.genetec.com
@@ -4396,6 +4411,7 @@ artifactory-bloomreachsite-dev.genetec.com
 artifactory-bloomreachsite-qa.genetec.com
 artifactory-bloomreachsite-uat.genetec.com
 artifactory-bounces.genetec.com
+artifactory-brxm-preprod.genetec.com
 artifactory-campaigncalc.genetec.com
 artifactory-canadacentral.genetec.com
 artifactory-clearpath.genetec.com
@@ -4829,6 +4845,7 @@ assets-bloomreachsite-dev.genetec.com
 assets-bloomreachsite-qa.genetec.com
 assets-bloomreachsite-uat.genetec.com
 assets-bounces.genetec.com
+assets-brxm-preprod.genetec.com
 assets-campaigncalc.genetec.com
 assets-canadacentral.genetec.com
 assets-clearpath.genetec.com
@@ -5028,6 +5045,7 @@ audit-bloomreachsite-dev.genetec.com
 audit-bloomreachsite-qa.genetec.com
 audit-bloomreachsite-uat.genetec.com
 audit-bounces.genetec.com
+audit-brxm-preprod.genetec.com
 audit-campaigncalc.genetec.com
 audit-canadacentral.genetec.com
 audit-clearpath.genetec.com
@@ -5226,6 +5244,7 @@ auth-bloomreachsite-dev.genetec.com
 auth-bloomreachsite-qa.genetec.com
 auth-bloomreachsite-uat.genetec.com
 auth-bounces.genetec.com
+auth-brxm-preprod.genetec.com
 auth-campaigncalc.genetec.com
 auth-canadacentral.genetec.com
 auth-clearpath.genetec.com
@@ -5895,6 +5914,7 @@ aws-bloomreachsite-dev.genetec.com
 aws-bloomreachsite-qa.genetec.com
 aws-bloomreachsite-uat.genetec.com
 aws-bounces.genetec.com
+aws-brxm-preprod.genetec.com
 aws-campaigncalc.genetec.com
 aws-canadacentral.genetec.com
 aws-clearpath.genetec.com
@@ -6798,6 +6818,7 @@ azure-bloomreachsite-dev.genetec.com
 azure-bloomreachsite-qa.genetec.com
 azure-bloomreachsite-uat.genetec.com
 azure-bounces.genetec.com
+azure-brxm-preprod.genetec.com
 azure-campaigncalc.genetec.com
 azure-canadacentral.genetec.com
 azure-clearpath.genetec.com
@@ -6996,6 +7017,7 @@ b2b-bloomreachsite-dev.genetec.com
 b2b-bloomreachsite-qa.genetec.com
 b2b-bloomreachsite-uat.genetec.com
 b2b-bounces.genetec.com
+b2b-brxm-preprod.genetec.com
 b2b-campaigncalc.genetec.com
 b2b-canadacentral.genetec.com
 b2b-clearpath.genetec.com
@@ -7194,6 +7216,7 @@ b2c-bloomreachsite-dev.genetec.com
 b2c-bloomreachsite-qa.genetec.com
 b2c-bloomreachsite-uat.genetec.com
 b2c-bounces.genetec.com
+b2c-brxm-preprod.genetec.com
 b2c-campaigncalc.genetec.com
 b2c-canadacentral.genetec.com
 b2c-clearpath.genetec.com
@@ -7392,6 +7415,7 @@ backup-bloomreachsite-dev.genetec.com
 backup-bloomreachsite-qa.genetec.com
 backup-bloomreachsite-uat.genetec.com
 backup-bounces.genetec.com
+backup-brxm-preprod.genetec.com
 backup-campaigncalc.genetec.com
 backup-canadacentral.genetec.com
 backup-clearpath.genetec.com
@@ -7590,6 +7614,7 @@ bak-bloomreachsite-dev.genetec.com
 bak-bloomreachsite-qa.genetec.com
 bak-bloomreachsite-uat.genetec.com
 bak-bounces.genetec.com
+bak-brxm-preprod.genetec.com
 bak-campaigncalc.genetec.com
 bak-canadacentral.genetec.com
 bak-clearpath.genetec.com
@@ -7788,6 +7813,7 @@ bamboo-bloomreachsite-dev.genetec.com
 bamboo-bloomreachsite-qa.genetec.com
 bamboo-bloomreachsite-uat.genetec.com
 bamboo-bounces.genetec.com
+bamboo-brxm-preprod.genetec.com
 bamboo-campaigncalc.genetec.com
 bamboo-canadacentral.genetec.com
 bamboo-clearpath.genetec.com
@@ -7987,6 +8013,7 @@ beta-bloomreachsite-dev.genetec.com
 beta-bloomreachsite-qa.genetec.com
 beta-bloomreachsite-uat.genetec.com
 beta-bounces.genetec.com
+beta-brxm-preprod.genetec.com
 beta-campaigncalc.genetec.com
 beta-canadacentral.genetec.com
 beta-clearpath.genetec.com
@@ -8185,6 +8212,7 @@ beta2-bloomreachsite-dev.genetec.com
 beta2-bloomreachsite-qa.genetec.com
 beta2-bloomreachsite-uat.genetec.com
 beta2-bounces.genetec.com
+beta2-brxm-preprod.genetec.com
 beta2-campaigncalc.genetec.com
 beta2-canadacentral.genetec.com
 beta2-clearpath.genetec.com
@@ -8618,6 +8646,7 @@ billing-bloomreachsite-dev.genetec.com
 billing-bloomreachsite-qa.genetec.com
 billing-bloomreachsite-uat.genetec.com
 billing-bounces.genetec.com
+billing-brxm-preprod.genetec.com
 billing-campaigncalc.genetec.com
 billing-canadacentral.genetec.com
 billing-clearpath.genetec.com
@@ -9756,6 +9785,7 @@ booking-bloomreachsite-dev.genetec.com
 booking-bloomreachsite-qa.genetec.com
 booking-bloomreachsite-uat.genetec.com
 booking-bounces.genetec.com
+booking-brxm-preprod.genetec.com
 booking-campaigncalc.genetec.com
 booking-canadacentral.genetec.com
 booking-clearpath.genetec.com
@@ -10001,37 +10031,8 @@ bounces-download.genetec.com
 bounces-downloads.genetec.com
 bounces-drone.genetec.com
 bounces-edge.genetec.com
-bounces-elastic.genetec.com
-bounces-erp.genetec.com
-bounces-es.genetec.com
-bounces-event.genetec.com
-bounces-events.genetec.com
-bounces-experiment.genetec.com
-bounces-fastly.genetec.com
-bounces-feature.genetec.com
-bounces-features.genetec.com
-bounces-feedback.genetec.com
-bounces-files.genetec.com
-bounces-fix.genetec.com
-bounces-form.genetec.com
-bounces-forms.genetec.com
-bounces-freshdesk.genetec.com
-bounces-ftp.genetec.com
-bounces-gateway.genetec.com
-bounces-gateway2.genetec.com
-bounces-gcp.genetec.com
-bounces-gdpr.genetec.com
-bounces-git.genetec.com
-bounces-github.genetec.com
-bounces-gitlab.genetec.com
-bounces-go.genetec.com
-bounces-grafana.genetec.com
-bounces-gw.genetec.com
-bounces-help.genetec.com
-bounces-heroku.genetec.com
-bounces-hotfix.genetec.com
-bounces-hr.genetec.com
 bounces.genetec.com
+brxm-preprod.genetec.com
 build.genetec.com
 cache.genetec.com
 calculator.genetec.com
@@ -10060,7 +10061,6 @@ cpq-dev.genetec.com
 cpq-qa.genetec.com
 cpq-uat.genetec.com
 cpq.genetec.com
-crl.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
@@ -10290,7 +10290,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
