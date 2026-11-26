@@ -196,7 +196,6 @@ account-westeurope.genetec.com
 account-westus.genetec.com
 account-www-prod-2.genetec.com
 account-www.genetec.com
-account-www3.genetec.com
 account.genetec.com
 accounts-add-ons-elasticsearch.genetec.com
 accounts-add-ons-server.genetec.com
@@ -396,7 +395,6 @@ accounts-westeurope.genetec.com
 accounts-westus.genetec.com
 accounts-www-prod-2.genetec.com
 accounts-www.genetec.com
-accounts-www3.genetec.com
 accounts.genetec.com
 add-ons-account.genetec.com
 add-ons-accounts.genetec.com
@@ -1305,7 +1303,6 @@ admin-api-westeurope.genetec.com
 admin-api-westus.genetec.com
 admin-api-www-prod-2.genetec.com
 admin-api-www.genetec.com
-admin-api-www3.genetec.com
 admin-api.genetec.com
 admin-appointments.genetec.com
 admin-architecture.genetec.com
@@ -1501,7 +1498,6 @@ admin-westeurope.genetec.com
 admin-westus.genetec.com
 admin-www-prod-2.genetec.com
 admin-www.genetec.com
-admin-www3.genetec.com
 admin.genetec.com
 administrator-add-ons-elasticsearch.genetec.com
 administrator-add-ons-server.genetec.com
@@ -1701,7 +1697,6 @@ administrator-westeurope.genetec.com
 administrator-westus.genetec.com
 administrator-www-prod-2.genetec.com
 administrator-www.genetec.com
-administrator-www3.genetec.com
 administrator.genetec.com
 affiliate-add-ons-elasticsearch.genetec.com
 affiliate-add-ons-server.genetec.com
@@ -1901,7 +1896,6 @@ affiliate-westeurope.genetec.com
 affiliate-westus.genetec.com
 affiliate-www-prod-2.genetec.com
 affiliate-www.genetec.com
-affiliate-www3.genetec.com
 affiliate.genetec.com
 airbyte-account.genetec.com
 airbyte-accounts.genetec.com
@@ -2336,7 +2330,6 @@ akamai-westeurope.genetec.com
 akamai-westus.genetec.com
 akamai-www-prod-2.genetec.com
 akamai-www.genetec.com
-akamai-www3.genetec.com
 akamai.genetec.com
 alpha-add-ons-elasticsearch.genetec.com
 alpha-add-ons-server.genetec.com
@@ -2536,7 +2529,6 @@ alpha-westeurope.genetec.com
 alpha-westus.genetec.com
 alpha-www-prod-2.genetec.com
 alpha-www.genetec.com
-alpha-www3.genetec.com
 alpha.genetec.com
 apache-add-ons-elasticsearch.genetec.com
 apache-add-ons-server.genetec.com
@@ -2736,7 +2728,6 @@ apache-westeurope.genetec.com
 apache-westus.genetec.com
 apache-www-prod-2.genetec.com
 apache-www.genetec.com
-apache-www3.genetec.com
 apache.genetec.com
 api-add-ons-elasticsearch.genetec.com
 api-add-ons-server.genetec.com
@@ -2939,7 +2930,6 @@ api-admin-westeurope.genetec.com
 api-admin-westus.genetec.com
 api-admin-www-prod-2.genetec.com
 api-admin-www.genetec.com
-api-admin-www3.genetec.com
 api-admin.genetec.com
 api-airbyte.genetec.com
 api-appointments.genetec.com
@@ -3219,7 +3209,6 @@ api-internal-westeurope.genetec.com
 api-internal-westus.genetec.com
 api-internal-www-prod-2.genetec.com
 api-internal-www.genetec.com
-api-internal-www3.genetec.com
 api-internal.genetec.com
 api-is-spk01.genetec.com
 api-ithelp.genetec.com
@@ -3336,7 +3325,6 @@ api-westeurope.genetec.com
 api-westus.genetec.com
 api-www-prod-2.genetec.com
 api-www.genetec.com
-api-www3.genetec.com
 api.genetec.com
 app-add-ons-elasticsearch.genetec.com
 app-add-ons-server.genetec.com
@@ -3536,7 +3524,6 @@ app-westeurope.genetec.com
 app-westus.genetec.com
 app-www-prod-2.genetec.com
 app-www.genetec.com
-app-www3.genetec.com
 app.genetec.com
 appointments-account.genetec.com
 appointments-accounts.genetec.com
@@ -3971,7 +3958,6 @@ apps-westeurope.genetec.com
 apps-westus.genetec.com
 apps-www-prod-2.genetec.com
 apps-www.genetec.com
-apps-www3.genetec.com
 apps.genetec.com
 architecture-account.genetec.com
 architecture-accounts.genetec.com
@@ -4406,7 +4392,6 @@ archive-westeurope.genetec.com
 archive-westus.genetec.com
 archive-www-prod-2.genetec.com
 archive-www.genetec.com
-archive-www3.genetec.com
 archive.genetec.com
 artifactory-add-ons-elasticsearch.genetec.com
 artifactory-add-ons-server.genetec.com
@@ -4606,7 +4591,6 @@ artifactory-westeurope.genetec.com
 artifactory-westus.genetec.com
 artifactory-www-prod-2.genetec.com
 artifactory-www.genetec.com
-artifactory-www3.genetec.com
 artifactory.genetec.com
 as2edi-account.genetec.com
 as2edi-accounts.genetec.com
@@ -5041,7 +5025,6 @@ assets-westeurope.genetec.com
 assets-westus.genetec.com
 assets-www-prod-2.genetec.com
 assets-www.genetec.com
-assets-www3.genetec.com
 assets.genetec.com
 assets.login.genetec.com
 audit-add-ons-elasticsearch.genetec.com
@@ -5242,7 +5225,6 @@ audit-westeurope.genetec.com
 audit-westus.genetec.com
 audit-www-prod-2.genetec.com
 audit-www.genetec.com
-audit-www3.genetec.com
 audit.genetec.com
 auth-add-ons-elasticsearch.genetec.com
 auth-add-ons-server.genetec.com
@@ -5442,7 +5424,6 @@ auth-westeurope.genetec.com
 auth-westus.genetec.com
 auth-www-prod-2.genetec.com
 auth-www.genetec.com
-auth-www3.genetec.com
 auth.dev.genetec.com
 auth.genetec.com
 autodiscover-account.genetec.com
@@ -6113,7 +6094,6 @@ aws-westeurope.genetec.com
 aws-westus.genetec.com
 aws-www-prod-2.genetec.com
 aws-www.genetec.com
-aws-www3.genetec.com
 aws.genetec.com
 ax-account.genetec.com
 ax-accounts.genetec.com
@@ -7018,7 +6998,6 @@ azure-westeurope.genetec.com
 azure-westus.genetec.com
 azure-www-prod-2.genetec.com
 azure-www.genetec.com
-azure-www3.genetec.com
 azure.genetec.com
 b2b-add-ons-elasticsearch.genetec.com
 b2b-add-ons-server.genetec.com
@@ -7218,7 +7197,6 @@ b2b-westeurope.genetec.com
 b2b-westus.genetec.com
 b2b-www-prod-2.genetec.com
 b2b-www.genetec.com
-b2b-www3.genetec.com
 b2b.genetec.com
 b2c-add-ons-elasticsearch.genetec.com
 b2c-add-ons-server.genetec.com
@@ -7418,7 +7396,6 @@ b2c-westeurope.genetec.com
 b2c-westus.genetec.com
 b2c-www-prod-2.genetec.com
 b2c-www.genetec.com
-b2c-www3.genetec.com
 b2c.genetec.com
 backup-add-ons-elasticsearch.genetec.com
 backup-add-ons-server.genetec.com
@@ -7618,7 +7595,6 @@ backup-westeurope.genetec.com
 backup-westus.genetec.com
 backup-www-prod-2.genetec.com
 backup-www.genetec.com
-backup-www3.genetec.com
 backup.genetec.com
 bak-add-ons-elasticsearch.genetec.com
 bak-add-ons-server.genetec.com
@@ -7818,7 +7794,6 @@ bak-westeurope.genetec.com
 bak-westus.genetec.com
 bak-www-prod-2.genetec.com
 bak-www.genetec.com
-bak-www3.genetec.com
 bak.genetec.com
 bamboo-add-ons-elasticsearch.genetec.com
 bamboo-add-ons-server.genetec.com
@@ -8018,8 +7993,8 @@ bamboo-westeurope.genetec.com
 bamboo-westus.genetec.com
 bamboo-www-prod-2.genetec.com
 bamboo-www.genetec.com
-bamboo-www3.genetec.com
 bamboo.genetec.com
+bapi.genetec.com
 beta-add-ons-elasticsearch.genetec.com
 beta-add-ons-server.genetec.com
 beta-add-ons.genetec.com
@@ -8218,7 +8193,6 @@ beta-westeurope.genetec.com
 beta-westus.genetec.com
 beta-www-prod-2.genetec.com
 beta-www.genetec.com
-beta-www3.genetec.com
 beta.genetec.com
 beta2-add-ons-elasticsearch.genetec.com
 beta2-add-ons-server.genetec.com
@@ -8418,7 +8392,6 @@ beta2-westeurope.genetec.com
 beta2-westus.genetec.com
 beta2-www-prod-2.genetec.com
 beta2-www.genetec.com
-beta2-www3.genetec.com
 beta2.genetec.com
 bids-account.genetec.com
 bids-accounts.genetec.com
@@ -8853,7 +8826,6 @@ billing-westeurope.genetec.com
 billing-westus.genetec.com
 billing-www-prod-2.genetec.com
 billing-www.genetec.com
-billing-www3.genetec.com
 billing.genetec.com
 blog-account.genetec.com
 blog-accounts.genetec.com
@@ -9993,7 +9965,6 @@ booking-westeurope.genetec.com
 booking-westus.genetec.com
 booking-www-prod-2.genetec.com
 booking-www.genetec.com
-booking-www3.genetec.com
 booking.genetec.com
 boss.genetec.com
 bounces-account.genetec.com
@@ -10030,6 +10001,36 @@ bounces-build.genetec.com
 bounces-cache.genetec.com
 bounces-cd.genetec.com
 bounces-cdn.genetec.com
+bounces-checkout.genetec.com
+bounces-ci.genetec.com
+bounces-cloud.genetec.com
+bounces-cloudflare.genetec.com
+bounces-cloudfront.genetec.com
+bounces-cms.genetec.com
+bounces-compliance.genetec.com
+bounces-confluence.genetec.com
+bounces-console.genetec.com
+bounces-content.genetec.com
+bounces-corp.genetec.com
+bounces-corporate.genetec.com
+bounces-crm.genetec.com
+bounces-dashboard.genetec.com
+bounces-data.genetec.com
+bounces-database.genetec.com
+bounces-db.genetec.com
+bounces-demo.genetec.com
+bounces-deploy.genetec.com
+bounces-dev.genetec.com
+bounces-dev1.genetec.com
+bounces-dev2.genetec.com
+bounces-dns.genetec.com
+bounces-docker.genetec.com
+bounces-docs.genetec.com
+bounces-documentation.genetec.com
+bounces-download.genetec.com
+bounces-downloads.genetec.com
+bounces-drone.genetec.com
+bounces-edge.genetec.com
 bounces.genetec.com
 brxm-preprod.genetec.com
 build.genetec.com
@@ -10062,7 +10063,6 @@ cpq.genetec.com
 crm.dev.genetec.com
 crm.genetec.com
 crmextendedapi.genetec.com
-cs.genetec.com
 dap.genetec.com
 dashboard.genetec.com
 data.genetec.com
@@ -10081,7 +10081,6 @@ dio-api-uat.genetec.com
 dio-api.genetec.com
 dio.nonprod.genetec.com
 dioautomation.genetec.com
-distribution.genetec.com
 dmt.genetec.com
 dns.genetec.com
 docker.genetec.com
@@ -10114,7 +10113,6 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
-facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10138,7 +10136,6 @@ gdpr.genetec.com
 gelato-dev.genetec.com
 gelato.genetec.com
 genetec.com
-genetec.comdap.genetec.com
 genetecedi.genetec.com
 genetecedi.test.genetec.com
 ghostwriter.genetec.com
@@ -10200,7 +10197,6 @@ learn.genetec.com
 learningcrew.genetec.com
 legacy.genetec.com
 legal.genetec.com
-library.genetec.com
 licensing.genetec.com
 load.genetec.com
 loadbalancer.genetec.com
@@ -10217,7 +10213,6 @@ marketing.genetec.com
 marketo.genetec.com
 measure.genetec.com
 media.genetec.com
-meeting.genetec.com
 meetings-a.genetec.com
 meetings-b.genetec.com
 meetings-test.genetec.com
@@ -10246,7 +10241,6 @@ ns1.genetec.com
 ns2.genetec.com
 oauth.genetec.com
 old.genetec.com
-one.genetec.com
 order-maint.genetec.com
 order.genetec.com
 orders.genetec.com
@@ -10289,7 +10283,6 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
-promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
@@ -10343,7 +10336,6 @@ sec.genetec.com
 security.genetec.com
 sendgrid.genetec.com
 servicecatalog.genetec.com
-services.genetec.com
 sftp.genetec.com
 share.genetec.com
 shop-api.genetec.com
@@ -10430,7 +10422,6 @@ westeurope.staging.login.genetec.com
 westus.login.genetec.com
 westus.staging.login.genetec.com
 wiki.genetec.com
-www-dev.genetec.com
 www-prod-2.genetec.com
 www.as2edi.genetec.com
 www.dap.genetec.com
@@ -10439,5 +10430,4 @@ www.events.genetec.com
 www.genetec.com
 www.learningcrew.genetec.com
 www2.genetec.com
-www3.genetec.com
 zendesk.genetec.com
