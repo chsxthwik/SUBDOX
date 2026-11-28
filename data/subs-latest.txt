@@ -10117,7 +10117,6 @@ experiences.genetec.com
 experiment.genetec.com
 expglobal.login.genetec.com
 expwestus.login.genetec.com
-facilities.genetec.com
 fastly.genetec.com
 fdnortheurope.login.genetec.com
 fdwestus.login.genetec.com
@@ -10229,6 +10228,7 @@ mobile.genetec.com
 mobilehelp.genetec.com
 monitor.genetec.com
 monitoring.genetec.com
+msoid.genetec.com
 mx.genetec.com
 mx1.genetec.com
 netbox.genetec.com
@@ -10290,6 +10290,7 @@ prod.genetec.com
 production.genetec.com
 profile.genetec.com
 promo-maint.genetec.com
+promo.genetec.com
 proxy.genetec.com
 python.genetec.com
 qa-www.genetec.com
